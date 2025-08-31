@@ -1,7 +1,7 @@
 # Add/edit entries here. Descriptions included when reliably available.
 - name: "sir this is a wendy’s"
   url: "https://www.instagram.com/sir_tisawendys/"
-  description: "📍toronto | creative socials that build communities 👯‍♂️ if you'd like to become a host (wendy), or just want to meet cool people, join us!" # instagram descript
+  description: "\U0001F4CDtoronto | creative socials that build communities \U0001F46F‍♂️ if you'd like to become a host (wendy), or just want to meet cool people, join us!" # instagram descript
   source: "https://lightmorning.substack.com/p/weave-report-summer-2025-edition"
 - name: "Mindful Miles"
   url: "https://luma.com/mindfulmiles"
@@ -57,7 +57,7 @@
   source: "https://lightmorning.substack.com/p/weave-report-summer-2025-edition"
 - name: "BAAA!"
   url: "https://www.instagram.com/baaa______baaa/"
-  description: "an experimental art & architecture studio >>> also a radio, community space & school @baaa______baaa @sheeep.school 𝓌𝑒 𝒸𝑜𝓃𝓃𝑒𝒸𝓉 𝓉𝒽𝑒 𝒹𝑜𝓉𝓈"
+  description: "an experimental art & architecture studio >>> also a radio, community space & school @baaa______baaa @sheeep.school \U0001D4CC\U0001D452 \U0001D4B8\U0001D45C\U0001D4C3\U0001D4C3\U0001D452\U0001D4B8\U0001D4C9 \U0001D4C9\U0001D4BD\U0001D452 \U0001D4B9\U0001D45C\U0001D4C9\U0001D4C8"
   source: "@admin included 2025-08-29"
 - name: "The Queer Computer Club"
   url: "https://queercomputerclub.ca"
@@ -79,3 +79,7 @@
   url: "https://creativemornings.com/cities/TO"
   description: "CreativeMornings is a series of talks held around the world for attendees to enjoy friendly people, fresh coffee, and an international variety of breakfast foods."
   source: "@admin included 2025-08-29"
+- name: Repair Café Toronto
+  url: https://repaircafetoronto.ca
+  description: Repair Café Toronto is a grassroots, volunteer group that organizes events where neighbours help neighbours learn how to repair. Our events are hosted by local community centres, branches of the Toronto Public Library and other community-based organizations. The video below was filmed at a recent Repair Café event. You can meet some of the volunteers and fixers, and see what it’s like to visit a Repair Café.
+  source: issue #7 by @jordyarms
