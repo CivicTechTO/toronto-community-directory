@@ -8,7 +8,7 @@ source: "issue #87 by @Khasir"
 tags:
   - type/organization
   - for/volunteering
-  - for/social-good
+  - for/advocacy
 ---
 
 <!-- Community added from GitHub issue #87 -->
