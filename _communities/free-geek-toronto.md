@@ -1,7 +1,7 @@
 ---
 name: Free Geek Toronto
 description: "We are a not-for-profit technology reuse social enterprise in the heart of Toronto. We provide low-cost computers, offer green solutions to unwanted and end-of-life technology, and work with partners to increase digital inclusion in our city."
-source: "MCP Generative Addition"
+source: "gnntoronto"
 tags:
   - type/organization
   - for/technology
