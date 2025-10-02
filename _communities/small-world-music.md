@@ -1,6 +1,13 @@
 ---
 name: Small World Music
-description: "Small World Music is one of the pioneers and most significant presenters of culturally diverse music in Toronto. Small World is a celebration of cultural diversity expressed by one of the most potent tools available – music. A charitable organization, its vision is based on sharing cultural experience and ultimately, building bridges between cultures. It is about discovery and 'opening ears'."
+description:
+  For more than two decades, Small World Music has been celebrating cultural
+  diversity and showcasing a range of local, domestic, and international talent to
+  audiences across the Greater Toronto Area. Our vision goes beyond simply presenting
+  culturally-diverse artists to include finding ways of working with, showcasing,
+  and supporting underrepresented, marginalized, and newcomer professionals onstage
+  and behind the scenes to encourage sustainable careers, and become a leader in the
+  music industry.
 source: "MCP Generative Addition"
 tags:
   - type/organization
