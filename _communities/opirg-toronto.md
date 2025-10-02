@@ -20,6 +20,8 @@ tags:
   - neighbourhood/university-of-toronto
   - neighbourhood/discovery-district
   - audience/post-secondary-students
+social:
+  instagram: https://www.instagram.com/opirgtoronto/
 ---
 
 <!-- Community added from GitHub issue #93 -->
