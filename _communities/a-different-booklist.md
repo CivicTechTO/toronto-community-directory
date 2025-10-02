@@ -7,6 +7,9 @@ tags:
   - type/shop
   - for/reading
   - audience/bipoc-community
+  - borough/old-toronto
+  - neighbourhood/the-annex
+  - neighbourhood/harbord-village
 link: https://www.adifferentbooklist.com
 address:
   streetAddress: 779 Bathurst Street

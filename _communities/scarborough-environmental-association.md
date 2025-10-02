@@ -6,7 +6,7 @@ tags:
   - type/organization
   - for/environmentalism
   - for/volunteering
-  - neighbourhood/scarborough
+  - borough/scarborough
 link: https://www.scarbenv.ca
 social:
   instagram: https://www.instagram.com/scarb.env.asc/

@@ -6,7 +6,7 @@ tags:
   - type/market
   - neighbourhood/chinatown
   - for/shopping
-
+  - borough/old-toronto
 link: https://www.instagram.com/222spadinamarket/
 address:
   streetAddress: 222 Spadina Ave

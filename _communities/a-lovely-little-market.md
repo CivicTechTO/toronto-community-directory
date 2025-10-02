@@ -6,6 +6,7 @@ tags:
   - for/shopping
   - type/pop-up-market
   - neighbourhood/davenport
+  - borough/old-toronto
 link: https://www.instagram.com/alovelylittlemarket/
 address:
   streetAddress: 1800 Davenport Rd

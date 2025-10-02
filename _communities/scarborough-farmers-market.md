@@ -5,7 +5,7 @@ tags:
   - type/market
   - type/farmers-market
   - for/food
-  - neighbourhood/scarborough
+  - borough/scarborough
 link: https://www.scarboroughfarmersmarket.ca
 address:
   streetAddress: 1051 Progress Ave

@@ -6,6 +6,7 @@ tags:
   - type/event-space
   - type/coworking-space
   - audience/technologists
+  - borough/old-toronto
 link: https://1rg.space/
 address:
   streetAddress: 2567 Dundas Street West

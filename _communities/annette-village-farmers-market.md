@@ -6,6 +6,7 @@ tags:
   - type/farmers-market
   - for/food
   - neighbourhood/baby-point
+  - borough/york
 link: https://www.annettevillagemarket.com/
 address:
   streetAddress: 680 Annette Street, Runnymede Presbyterian Church

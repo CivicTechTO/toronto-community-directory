@@ -7,6 +7,7 @@ tags:
   - for/municipal-issues
   - for/advocacy
   - neighbourhood/seaton-village
+  - borough/old-toronto
 link: https://www.seatonvillage.ca
 social:
   facebook: https://www.facebook.com/groups/seatonvillage/
