@@ -1,0 +1,19 @@
+---
+name: SubLunar Community Arts Society
+description: "Art and Culture bring people together. Our non-profit society works to facilitate that. We tackle the issue of social isolation by offering participatory, low-barrier access to artistic production, tools and knowledge in a community setting."
+source: "MCP Generative Addition"
+tags:
+  - type/event-space
+  - type/gallery
+  - for/art
+  - for/workshops
+  - audience/artists
+link: https://sublunararts.org
+address:
+  streetAddress: 116 Spadina Avenue, Unit 204
+  addressLocality: Toronto
+  addressRegion: ON
+social:
+  instagram: https://www.instagram.com/sublunar_society/
+  facebook: https://www.facebook.com/SubLunarArts/
+---
