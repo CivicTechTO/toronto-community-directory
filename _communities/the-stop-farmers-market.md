@@ -7,6 +7,7 @@ tags:
   - for/food
   - for/food-security
   - neighbourhood/bracondale-hill
+  - borough/old-toronto
 link: https://www.thestop.org/farmersmarket/
 address:
   streetAddress: 601 Christie Street

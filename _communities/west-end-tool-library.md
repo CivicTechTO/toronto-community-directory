@@ -6,6 +6,7 @@ source: admin addition
 tags:
   - type/tool-library
   - for/tools
+  - for/diy
 social:
   instagram: https://www.instagram.com/westendtoollibrary/
 address:

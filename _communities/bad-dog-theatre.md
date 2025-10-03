@@ -8,6 +8,7 @@ tags:
   - for/improv
   - for/comedy
   - for/education
+  - borough/old-toronto
 link: https://baddogtheatre.com/
 address:
   streetAddress: 392 Spadina Avenue, Unit 2

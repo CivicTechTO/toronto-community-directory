@@ -8,6 +8,7 @@ tags:
   - for/community-building
   - for/post-secondary-students
   - neighbourhood/york-university-heights
+  - borough/north-york
 link: https://regenesis.eco/
 address:
   streetAddress: 4700 Keele St

@@ -5,6 +5,7 @@ source: "MCP Generative Addition"
 tags:
   - type/organization
   - neighbourhood/parkdale
+  - borough/old-toronto
 link: https://parkdalepeopleseconomy.ca
 social:
   instagram: https://www.instagram.com/parkdalepeopleseconomy/

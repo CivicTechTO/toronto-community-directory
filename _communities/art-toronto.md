@@ -7,6 +7,7 @@ tags:
   - for/art
   - for/contemporary-art
   - for/galleries
+  - borough/old-toronto
 link: https://arttoronto.ca
 address:
   streetAddress: 255 Front Street West

@@ -9,6 +9,7 @@ tags:
   - for/performance-art
   - audience/performers
   - neighbourhood/leslieville
+  - borough/old-toronto
 link: https://videocab.com
 address:
   streetAddress: 10 Busy Street

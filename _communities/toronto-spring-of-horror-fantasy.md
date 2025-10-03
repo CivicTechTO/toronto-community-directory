@@ -7,6 +7,7 @@ tags:
   - type/film-festival
   - for/film
   - for/horror
+  - borough/old-toronto
 link: http://springofhorror.com/
 address:
   streetAddress: 400 Roncesvalles Avenue

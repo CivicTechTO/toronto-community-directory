@@ -8,6 +8,7 @@ tags:
   - for/music
   - for/mentorship
   - for/arts
+  - borough/old-toronto
 link: https://venusfest.net
 social:
   instagram: https://www.instagram.com/venusfestival/

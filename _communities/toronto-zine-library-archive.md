@@ -9,6 +9,7 @@ tags:
   - for/diy
   - neighbourhood/the-annex
   - neighbourhood/harbord-village
+  - borough/old-toronto
 link: "https://www.torontozinelibrary.org"
 address:
   streetAddress: 292 Brunswick Avenue

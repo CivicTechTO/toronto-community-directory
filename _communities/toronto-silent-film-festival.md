@@ -6,6 +6,7 @@ tags:
   - type/annual-event
   - type/film-festival
   - for/film
+  - borough/old-toronto
 link: http://www.torontosilentfilmfestival.com
 address:
   streetAddress: 400 Roncesvalles Avenue

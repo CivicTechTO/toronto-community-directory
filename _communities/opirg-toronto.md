@@ -19,6 +19,7 @@ tags:
   - for/volunteering
   - neighbourhood/university-of-toronto
   - neighbourhood/discovery-district
+  - borough/old-toronto
   - audience/post-secondary-students
 social:
   instagram: https://www.instagram.com/opirgtoronto/

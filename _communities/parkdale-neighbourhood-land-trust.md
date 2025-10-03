@@ -7,6 +7,7 @@ tags:
   - type/community-land-trust
   - for/advocacy
   - neighbourhood/parkdale
+  - borough/old-toronto
 link: https://pnlt.ca
 address:
   streetAddress: 87 Milky Way

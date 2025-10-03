@@ -6,6 +6,7 @@ tags:
   - for/food
   - for/food-security
   - neighbourhood/parkdale
+  - borough/old-toronto
 link: https://www.facebook.com/photo/?fbid=687512030087526&set=pcb.687512150087514
 address:
   streetAddress: 212 Cowan Ave

@@ -5,6 +5,7 @@ tags:
   - type/market
   - type/farmers-market
   - for/food
+  - borough/old-toronto
 link: https://www.toronto.ca/services-payments/venues-facilities-bookings/booking-city-facilities/city-squares/nathan-phillips-square/events-happening-on-nathan-phillips-square/
 address:
   streetAddress: 100 Queen St W

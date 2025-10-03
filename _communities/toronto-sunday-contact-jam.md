@@ -6,6 +6,7 @@ tags:
   - type/event-series
   - for/improv
   - for/dancing
+  - borough/old-toronto
 link: https://www.contactimprov.ca/on/toronto/sunday/
 address:
   streetAddress: 805 Dovercourt Road

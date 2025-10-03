@@ -8,6 +8,7 @@ tags:
   - for/art
   - for/contemporary-art
   - audience/artists
+  - borough/old-toronto
 link: https://www.mercerunion.org
 address:
   streetAddress: 1286 Bloor Street West

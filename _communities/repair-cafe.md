@@ -6,6 +6,7 @@ tags:
   - type/event-series
   - for/repair
   - for/learning
+  - for/diy
   - for/sustainability
   - for/volunteering
 link: https://repaircafetoronto.ca

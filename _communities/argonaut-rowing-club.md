@@ -8,6 +8,7 @@ tags:
   - for/sports
   - for/rowing
   - for/fitness
+  - borough/old-toronto
 link: https://www.argonautrowingclub.com
 address:
   streetAddress: 1225 Lake Shore Boulevard West

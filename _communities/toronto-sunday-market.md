@@ -6,6 +6,7 @@ tags:
   - for/shopping
   - for/community-building
   - neighbourhood/parkdale
+  - borough/old-toronto
 link: https://theparkdalehall.com/new/
 address:
   streetAddress: 1605 Queen St W

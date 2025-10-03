@@ -8,6 +8,7 @@ tags:
   - for/dancing
   - for/house-music
   - for/underground-music
+  - borough/old-toronto
 link: https://wiggleroomtoronto.com
 address:
   streetAddress: 772 Dundas Street West

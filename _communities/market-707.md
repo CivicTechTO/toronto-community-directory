@@ -6,6 +6,7 @@ tags:
   - for/food
   - for/shopping
   - neighbourhood/alexandra-park
+  - borough/old-toronto
 link: https://www.mkt707.ca
 address:
   streetAddress: 707 Dundas Street West

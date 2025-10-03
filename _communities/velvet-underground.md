@@ -6,6 +6,7 @@ tags:
   - type/venue
   - for/music
   - for/concerts
+  - borough/old-toronto
 link: https://thevelvet.ca
 address:
   streetAddress: 508 Queen Street West

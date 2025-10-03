@@ -4,6 +4,7 @@ description: "Bain Apartments Co-op is one of the most beautiful and interesting
 source: "MCP Generative Addition"
 tags:
   - type/housing-cooperative
+  - borough/old-toronto
 link: https://bainco-op.ca
 address:
   streetAddress: 100 Bain Avenue

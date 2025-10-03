@@ -5,7 +5,8 @@ tags:
   - type/market
   - type/farmers-market
   - for/food
-  - neighbourhood/black-creek
+  - neighbourhood/york-university-heights
+  - borough/north-york
 link: https://www.blackcreekfarm.ca/farm-stand/
 address:
   streetAddress: 4929 Jane Street

@@ -6,6 +6,7 @@ tags:
   - for/food
   - for/shopping
   - neighbourhood/financial-district
+  - borough/old-toronto
 link: https://torontounion.ca/
 address:
   streetAddress: 65 Front St W

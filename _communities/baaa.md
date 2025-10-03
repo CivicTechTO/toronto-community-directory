@@ -8,6 +8,7 @@ tags:
   - for/art
   - for/architecture
   - for/education
+  - borough/old-toronto
 link: https://www.instagram.com/baaa______baaa/
 address:
   streetAddress: 300 Campbell Avenue, Suite 114

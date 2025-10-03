@@ -7,6 +7,7 @@ tags:
   - type/comedy-club
   - for/comedy
   - for/standup
+  - borough/old-toronto
 link: https://backroomcomedyclub.com
 address:
   streetAddress: 1162 College Street

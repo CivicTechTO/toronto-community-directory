@@ -10,6 +10,7 @@ tags:
   - audience/post-secondary-students
   - audience/cyclists
   - neighbourhood/discovery-district
+  - borough/old-toronto
 link: https://bikechain.ca
 address:
   streetAddress: 230 College Street

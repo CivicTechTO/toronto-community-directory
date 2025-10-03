@@ -7,6 +7,7 @@ tags:
   - for/lectures
   - for/absurdity
   - for/participation
+  - borough/old-toronto
 link: https://www.trampolinehall.net/
 address:
   streetAddress: 1197 Dundas Street West

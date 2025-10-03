@@ -8,6 +8,7 @@ tags:
   - for/advocacy
   - audience/post-secondary-students
   - neighbourhood/york-university-heights
+  - borough/north-york
 link: https://www.ycha.ca
 address:
   streetAddress: 4700 Keele Street (New Student Centre)

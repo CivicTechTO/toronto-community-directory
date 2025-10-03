@@ -6,6 +6,7 @@ tags:
   - type/community-centre
   - for/social-services
   - neighbourhood/agincourt
+  - borough/scarborough
 link: https://www.acsatoronto.org
 address:
   streetAddress: 4215 Sheppard Avenue East, Suite 100

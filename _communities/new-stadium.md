@@ -11,6 +11,7 @@ tags:
   - audience/technologists
   - audience/artists
   - audience/makers
+  - borough/old-toronto
 link: https://luma.com/newsystems
 address:
   streetAddress: 83 Walnut Avenue

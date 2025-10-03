@@ -10,6 +10,7 @@ tags:
   - audience/seniors
   - audience/youth
   - neighbourhood/christie-pits
+  - borough/old-toronto
 link: https://www.conc.ca
 address:
   streetAddress: 854 Bloor Street West

@@ -6,6 +6,7 @@ tags:
   - for/shopping
   - for/food
   - neighbourhood/chinatown
+  - borough/old-toronto
 link: https://chinatownbia.com/
 address:
   streetAddress: Chinatown

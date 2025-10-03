@@ -7,6 +7,7 @@ tags:
   - type/gallery
   - for/art
   - for/shopping
+  - borough/old-toronto
 link: https://artmetropole.com
 address:
   streetAddress: 896 College Street

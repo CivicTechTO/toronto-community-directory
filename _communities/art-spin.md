@@ -8,6 +8,7 @@ tags:
   - for/art
   - for/cycling
   - audience/cyclists
+  - borough/old-toronto
 link: https://www.artspin.ca
 social:
   instagram: https://www.instagram.com/artspintoronto/

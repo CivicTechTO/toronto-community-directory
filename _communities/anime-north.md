@@ -7,6 +7,7 @@ tags:
   - for/anime
   - for/shopping
   - for/cosplay
+  - borough/old-toronto
 link: https://www.animenorth.com
 social:
   instagram: https://www.instagram.com/animenorthcompass/

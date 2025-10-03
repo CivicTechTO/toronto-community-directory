@@ -6,6 +6,7 @@ tags:
   - type/farmers-market
   - for/food
   - neighbourhood/north-york-city-centre
+  - borough/north-york
 link: https://northyorkfarmersmarket.ca/
 address:
   streetAddress: 5100 Yonge St

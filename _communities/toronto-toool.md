@@ -7,6 +7,7 @@ tags:
   - for/fun
   - for/lockpicking
   - for/learning
+  - borough/old-toronto
 link: https://www.meetup.com/toool_toronto/
 address:
   streetAddress: 718R Ossington Avenue

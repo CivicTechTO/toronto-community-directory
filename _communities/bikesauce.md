@@ -8,6 +8,7 @@ tags:
   - for/repair
   - for/volunteering
   - audience/cyclists
+  - borough/old-toronto
 link: https://www.bikesauce.org
 address:
   streetAddress: 341 Broadview Avenue

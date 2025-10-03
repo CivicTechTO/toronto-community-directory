@@ -9,6 +9,7 @@ tags:
   - for/performing-arts
   - neighbourhood/the-annex
   - neighbourhood/harbord-village
+  - borough/old-toronto
 link: https://tranzac.org
 address:
   streetAddress: 292 Brunswick Avenue

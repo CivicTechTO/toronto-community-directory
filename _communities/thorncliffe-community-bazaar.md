@@ -5,6 +5,7 @@ tags:
   - type/market
   - for/shopping
   - neighbourhood/thorncliffe-park
+  - borough/etobicoke
 link: https://tpwomenscomm.org/
 address:
   streetAddress: 46 Thorncliffe Park Dr

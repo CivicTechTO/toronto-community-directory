@@ -8,6 +8,7 @@ tags:
   - for/sustainability
   - for/volunteering
   - neighbourhood/bracondale-hill
+  - borough/old-toronto
 link: https://ecofairtoronto.org
 address:
   streetAddress: 601 Christie Street

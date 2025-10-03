@@ -7,6 +7,7 @@ tags:
   - type/event-space
   - for/art
   - neighbourhood/moss-park
+  - borough/old-toronto
 link: https://amazingmosspark.ca
 address:
   streetAddress: 183 Queen Street East

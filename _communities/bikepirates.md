@@ -8,6 +8,7 @@ tags:
   - for/repair
   - for/volunteering
   - audience/cyclists
+  - borough/old-toronto
 link: https://bikepirates.com
 address:
   streetAddress: 1564 Bloor Street West
