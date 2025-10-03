@@ -6,7 +6,7 @@ tags:
   - type/organization
   - for/environmentalism
   - for/volunteering
-  - neighbourhood/etobicoke
+  - borough/etobicoke
 link: https://www.etobicokeclimateaction.ca
 social:
   facebook: https://www.facebook.com/EtobicokeClimateAction

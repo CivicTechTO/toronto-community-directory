@@ -8,6 +8,7 @@ tags:
   - for/food
   - for/community-building
   - neighbourhood/eatonville
+  - borough/etobicoke
 address:
   streetAddress: 399 The West Mall
   addressLocality: Toronto

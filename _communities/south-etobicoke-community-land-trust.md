@@ -5,7 +5,7 @@ source: "https://www.communityland.ca/canadian-clts/"
 tags:
   - type/organization
   - type/community-land-trust
-  - neighbourhood/south-etobicoke
+  - borough/etobicoke
 link: https://www.seclt.ca
 social:
   instagram: https://www.instagram.com/landtrust_etob/

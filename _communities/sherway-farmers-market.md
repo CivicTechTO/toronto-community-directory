@@ -5,7 +5,7 @@ tags:
   - type/market
   - type/farmers-market
   - for/food
-  - neighbourhood/etobicoke
+  - borough/etobicoke
 link: https://farmfreshmarkets.ca/
 address:
   streetAddress: 1536 The Queensway

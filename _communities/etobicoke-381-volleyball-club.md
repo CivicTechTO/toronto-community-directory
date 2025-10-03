@@ -8,6 +8,7 @@ tags:
   - for/volleyball
   - for/sports
   - audience/youth
+  - borough/etobicoke
 link: https://etobicoke381.ca
 address:
   streetAddress: 86 Montgomery Road
