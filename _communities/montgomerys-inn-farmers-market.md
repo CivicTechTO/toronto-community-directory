@@ -6,6 +6,7 @@ tags:
   - type/farmers-market
   - for/food
   - neighbourhood/the-kingsway
+  - borough/etobicoke
 link: https://montgomerysinnovators.ca/about/
 address:
   streetAddress: 4709 Dundas Street West

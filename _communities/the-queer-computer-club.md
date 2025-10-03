@@ -11,6 +11,7 @@ tags:
   - audience/makers
   - neighbourhood/harbord-village
   - neighbourhood/the-annex
+  - borough/old-toronto
 link: https://queercomputerclub.ca
 address:
   streetAddress: 720 Spadina Avenue, Unit #403

@@ -6,6 +6,7 @@ tags:
   - type/farmers-market
   - for/food
   - neighbourhood/east-danforth
+  - borough/east-york
 link: https://deca.to/market/
 address:
   streetAddress: 1949 Danforth Ave

@@ -7,7 +7,8 @@ tags:
   - for/volunteering
   - for/municipal-issues
   - for/advocacy
-  - neighbourhood/east-scarborough
+  - neighbourhood/highland-creek
+  - borough/scarborough
 link: https://myhighlandcreek.org
 address:
   streetAddress: 265 Port Union Road

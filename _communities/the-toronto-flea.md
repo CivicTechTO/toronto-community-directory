@@ -7,6 +7,7 @@ tags:
   - for/community-building
   - type/flea-market
   - neighbourhood/leslieville
+  - borough/old-toronto
 link: https://torontoflea.com/home
 address:
   streetAddress: 1444 Queen St E

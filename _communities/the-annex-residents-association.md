@@ -7,6 +7,7 @@ tags:
   - for/municipal-issues
   - for/advocacy
   - neighbourhood/the-annex
+  - borough/old-toronto
 link: https://www.theara.org
 address:
   streetAddress: PO Box 19057, RPO Walmer

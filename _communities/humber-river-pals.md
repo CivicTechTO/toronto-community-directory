@@ -7,7 +7,8 @@ tags:
   - for/environmentalism
   - for/volunteering
   - for/community-building
-  - neighbourhood/weston
+  - neighbourhood/weston-village
+  - borough/york
 link: https://humberriverpals.ca
 social:
   instagram: https://www.instagram.com/humberriverpals/

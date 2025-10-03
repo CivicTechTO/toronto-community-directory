@@ -7,6 +7,7 @@ tags:
   - for/food
   - neighbourhood/the-annex
   - neighbourhood/harbord-village
+  - borough/old-toronto
 link: https://bloorborden.com/
 address:
   streetAddress: 300 Borden Street

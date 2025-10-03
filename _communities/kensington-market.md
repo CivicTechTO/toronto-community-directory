@@ -6,6 +6,7 @@ tags:
   - for/shopping
   - for/food
   - neighbourhood/kensington
+  - borough/old-toronto
 link: https://kensingtonmarket.to/
 address:
   streetAddress: Kensington Market

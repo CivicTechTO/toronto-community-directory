@@ -6,6 +6,7 @@ tags:
   - type/organization
   - type/community-land-trust
   - neighbourhood/kensington
+  - borough/old-toronto
 link: https://kmclt.ca
 address:
   streetAddress: 103 Bellevue Avenue

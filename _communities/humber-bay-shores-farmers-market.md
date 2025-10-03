@@ -6,6 +6,7 @@ tags:
   - type/farmers-market
   - for/food
   - neighbourhood/mimico
+  - borough/etobicoke
 link: https://www.hbsca.ca
 address:
   streetAddress: 2195 Humber Bay Park W Trail

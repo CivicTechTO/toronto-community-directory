@@ -5,7 +5,8 @@ tags:
   - type/market
   - type/farmers-market
   - for/food
-  - neighbourhood/weston
+  - neighbourhood/weston-village
+  - borough/york
 link: https://welcometoweston.ca/farmers-market
 address:
   streetAddress: Weston Commons

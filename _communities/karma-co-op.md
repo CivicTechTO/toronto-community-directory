@@ -9,6 +9,7 @@ tags:
   - for/sustainability
   - neighbourhood/seaton-village
   - neighbourhood/the-annex
+  - borough/old-toronto
 link: https://www.karmacoop.org
 address:
   streetAddress: 739 Palmerston Avenue

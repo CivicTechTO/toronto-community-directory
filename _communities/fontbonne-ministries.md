@@ -6,6 +6,7 @@ tags:
   - type/community-centre
   - for/social-services
   - neighbourhood/leslieville
+  - borough/old-toronto
 link: https://www.fontbonneministries.com
 address:
   streetAddress: 791 Queen Street East

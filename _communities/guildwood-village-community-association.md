@@ -7,6 +7,7 @@ tags:
   - for/municipal-issues
   - for/advocacy
   - neighbourhood/guildwood
+  - borough/scarborough
 link: http://www.guildwood.on.ca
 social:
   facebook: https://www.facebook.com/GVCA123/

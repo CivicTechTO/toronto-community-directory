@@ -9,6 +9,7 @@ tags:
   - audience/youth
   - audience/seniors
   - neighbourhood/malvern
+  - borough/scarborough
 link: https://www.mfrc.ca
 address:
   streetAddress: 30 Sewells Road

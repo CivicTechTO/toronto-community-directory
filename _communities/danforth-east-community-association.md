@@ -6,7 +6,7 @@ tags:
   - type/neighbourhood-association
   - for/municipal-issues
   - for/advocacy
-  - neighbourhood/danforth
+  - borough/east-york
 link: https://deca.to
 address:
   streetAddress: 42 Cedarvale Avenue

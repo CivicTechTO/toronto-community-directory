@@ -7,6 +7,7 @@ tags:
   - for/municipal-issues
   - for/advocacy
   - neighbourhood/swansea
+  - borough/old-toronto
 link: https://www.swansearatepayers.ca
 address:
   streetAddress: Box 103, 95 Lavinia Avenue

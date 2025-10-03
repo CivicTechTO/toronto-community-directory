@@ -6,6 +6,7 @@ tags:
   - type/farmers-market
   - for/food
   - neighbourhood/leslieville
+  - borough/old-toronto
 link: https://www.leslievillemarket.com/
 address:
   streetAddress: 150 Greenwood Ave, Greenwood Park

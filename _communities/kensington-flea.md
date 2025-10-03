@@ -7,6 +7,7 @@ tags:
   - for/community-building
   - type/flea-market
   - neighbourhood/kensington-market
+  - borough/old-toronto
 link: https://www.kensingtonflea.com
 address:
   streetAddress: 216 Augusta Ave
