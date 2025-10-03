@@ -16,4 +16,5 @@ address:
 social:
   instagram: https://www.instagram.com/sublunar_society/
   facebook: https://www.facebook.com/SubLunarArts/
+  eventbrite: https://www.eventbrite.ca/o/sublunar-community-arts-society-116766214731
 ---
