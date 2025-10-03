@@ -6,6 +6,7 @@ tags:
   - type/organization
   - type/community-land-trust
   - neighbourhood/chinatown
+  - borough/old-toronto
 link: https://chinatownlandtrust.ca
 social:
   instagram: https://www.instagram.com/chinatownlandtrust/

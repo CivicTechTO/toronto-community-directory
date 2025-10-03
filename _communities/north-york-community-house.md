@@ -10,7 +10,7 @@ tags:
   - audience/immigrants
   - audience/families
   - audience/seniors
-  - neighbourhood/north-york
+  - borough/north-york
 link: https://www.nych.ca
 address:
   streetAddress: 1651 Keele Street, Suite 226

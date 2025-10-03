@@ -6,6 +6,7 @@ tags:
   - type/farmers-market
   - for/food
   - neighbourhood/riverdale
+  - borough/old-toronto
 link: https://withrowmarket.ca/
 address:
   streetAddress: 725 Logan Avenue

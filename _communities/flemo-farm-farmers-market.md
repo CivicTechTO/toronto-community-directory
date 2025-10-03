@@ -5,6 +5,7 @@ tags:
   - type/market
   - type/farmers-market
   - neighbourhood/flemingdon-park
+  - borough/north-york
   - for/food
 link: https://www.flemofarm.ca
 address:

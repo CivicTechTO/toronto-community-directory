@@ -7,6 +7,7 @@ tags:
   - for/municipal-issues
   - for/advocacy
   - neighbourhood/rosedale
+  - borough/old-toronto
 link: http://www.northrosedale.ca
 social:
   facebook: https://www.facebook.com/groups/1935709353325635/

@@ -7,6 +7,7 @@ tags:
   - for/shopping
   - type/night-market
   - neighbourhood/king-west
+  - borough/old-toronto
 address:
   streetAddress: 415 King St W
   addressLocality: Toronto

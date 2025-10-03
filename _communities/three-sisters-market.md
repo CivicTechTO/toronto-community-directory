@@ -7,6 +7,7 @@ tags:
   - for/community-building
   - type/pop-up-market
   - neighbourhood/chinatown
+  - borough/old-toronto
   - audience/indigenous-community
 link: https://www.instagram.com/threesistersmarkett.o/
 address:

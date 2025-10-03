@@ -6,6 +6,7 @@ tags:
   - for/shopping
   - for/community-building
   - neighbourhood/kensington-market
+  - borough/old-toronto
 address:
   streetAddress: 19 Kensington Ave
   addressLocality: Toronto

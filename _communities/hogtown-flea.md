@@ -6,6 +6,7 @@ tags:
   - for/shopping
   - type/flea-market
   - neighbourhood/riverdale
+  - borough/old-toronto
 link: https://www.coffeeandclothing.ca/
 address:
   streetAddress: 24 McGee St

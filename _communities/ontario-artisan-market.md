@@ -6,6 +6,7 @@ tags:
   - for/shopping
   - type/craft-market
   - neighbourhood/don-river
+  - borough/old-toronto
 link: https://www.evergreen.ca
 address:
   streetAddress: 550 Bayview Ave

@@ -6,6 +6,7 @@ tags:
   - type/farmers-market
   - for/food
   - neighbourhood/don-river
+  - borough/old-toronto
 link: https://www.evergreen.ca/evergreen-brick-work/activities/saturday-farmers-market/
 address:
   streetAddress: 550 Bayview Ave

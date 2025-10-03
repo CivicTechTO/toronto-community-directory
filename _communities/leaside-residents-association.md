@@ -7,6 +7,7 @@ tags:
   - for/municipal-issues
   - for/advocacy
   - neighbourhood/leaside
+  - borough/east-york
 link: https://leasideresidents.ca
 address:
   streetAddress: 1601 Bayview Avenue

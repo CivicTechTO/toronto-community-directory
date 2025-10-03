@@ -7,6 +7,7 @@ tags:
   - for/social-services
   - for/culture
   - neighbourhood/riverside
+  - borough/old-toronto
 link: https://www.ralphthornton.org
 address:
   streetAddress: 765 Queen Street East

@@ -9,6 +9,7 @@ tags:
   - for/fitness
   - audience/post-secondary-students
   - neighbourhood/discovery-district
+  - borough/old-toronto
 link: https://uoftrunclub.org
 address:
   streetAddress: 15 King's College Circle

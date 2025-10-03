@@ -7,6 +7,7 @@ tags:
   - for/municipal-issues
   - for/advocacy
   - neighbourhood/davenport
+  - borough/old-toronto
 link: https://dnatoronto.wordpress.com
 social:
   email: dnaresidents@gmail.com

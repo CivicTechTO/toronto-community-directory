@@ -10,6 +10,7 @@ tags:
   - for/creativity
   - for/diy
   - neighbourhood/chinatown
+  - borough/old-toronto
 link: https://ttlmakerspace.com
 address:
   streetAddress: 192 Spadina Avenue

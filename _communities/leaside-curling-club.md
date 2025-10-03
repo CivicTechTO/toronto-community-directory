@@ -9,6 +9,7 @@ tags:
   - for/sports
   - audience/all-ages
   - neighbourhood/leaside
+  - borough/east-york
 link: https://leasidecurling.ca
 address:
   streetAddress: 1075 Millwood Road

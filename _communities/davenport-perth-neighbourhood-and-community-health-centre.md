@@ -8,6 +8,7 @@ tags:
   - for/health
   - for/social-services
   - neighbourhood/davenport
+  - borough/old-toronto
 link: https://www.dpnchc.com
 address:
   streetAddress: 1900 Davenport Road

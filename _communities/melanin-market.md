@@ -6,6 +6,7 @@ tags:
   - for/shopping
   - audience/black-community
   - neighbourhood/garden-district
+  - borough/old-toronto
 link: https://www.melaninmarket.ca/
 address:
   streetAddress: Sankofa Square

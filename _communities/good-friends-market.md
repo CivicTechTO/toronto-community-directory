@@ -5,6 +5,7 @@ tags:
   - type/pop-up-market
   - type/market
   - neighbourhood/little-portugal
+  - borough/old-toronto
   - for/shopping
 link: https://www.goodfriendsmarket.com/
 address:

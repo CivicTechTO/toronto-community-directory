@@ -6,6 +6,7 @@ tags:
   - type/farmers-market
   - for/food
   - neighbourhood/dufferin-grove
+  - borough/old-toronto
 link: https://www.dufferingrovemarket.ca
 address:
   streetAddress: 875 Dufferin St

@@ -6,6 +6,7 @@ tags:
   - for/shopping
   - for/art
   - neighbourhood/fort-york
+  - borough/old-toronto
 link: https://www.torontoartcrawl.com/liberty-village-art-crawl-june-8-2024
 address:
   streetAddress: 250 Fort York Blvd, The Bentway

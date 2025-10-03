@@ -6,6 +6,7 @@ tags:
   - type/farmers-market
   - for/food
   - neighbourhood/harbourfront
+  - borough/old-toronto
 link: https://harbourfrontcentre.com/
 address:
   streetAddress: 235 Queen Quay W

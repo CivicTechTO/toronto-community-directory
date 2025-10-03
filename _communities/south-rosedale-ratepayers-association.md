@@ -7,6 +7,7 @@ tags:
   - for/municipal-issues
   - for/advocacy
   - neighbourhood/rosedale
+  - borough/old-toronto
 link: https://www.southrosedale.org
 ---
 

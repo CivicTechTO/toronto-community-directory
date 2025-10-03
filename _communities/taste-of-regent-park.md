@@ -5,6 +5,7 @@ tags:
   - type/market
   - for/food
   - neighbourhood/regent-park
+  - borough/old-toronto
 link: https://www.fredvictor.org/what-we-do/health-services/taste-of-regent-park/
 address:
   streetAddress: 620 Dundas St E

@@ -7,6 +7,7 @@ tags:
   - for/food
   - audience/black-community
   - neighbourhood/little-jamaica
+  - borough/york
 link: https://thelittlejamaica.com/
 address:
   streetAddress: Little Jamaica

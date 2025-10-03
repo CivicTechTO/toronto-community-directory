@@ -11,6 +11,7 @@ tags:
   - for/after-school
   - for/dancing
   - neighbourhood/chinatown
+  - borough/old-toronto
 address:
   streetAddress: 58 Cecil Street
   addressLocality: Toronto

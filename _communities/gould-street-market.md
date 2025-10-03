@@ -6,6 +6,7 @@ tags:
   - for/food
   - for/community-building
   - neighbourhood/garden-district
+  - borough/old-toronto
 link: https://www.appletreemarkets.ca/markets
 address:
   streetAddress: 50 Gould St

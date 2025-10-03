@@ -5,6 +5,7 @@ tags:
   - type/market
   - for/shopping
   - neighbourhood/little-portugal
+  - borough/old-toronto
 link: https://hippiemarketlife.com/
 address:
   streetAddress: 178r Ossington Ave

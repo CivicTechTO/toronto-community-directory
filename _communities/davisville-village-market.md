@@ -4,7 +4,8 @@ description: "Seasonal weekly market from May to October in Davisville Village, 
 tags:
   - type/market
   - for/food
-  - neighbourhood/davisville
+  - neighbourhood/davisville-village
+  - borough/old-toronto
 link: https://www.appletreemarkets.ca/markets
 address:
   streetAddress: 220 Davisville Ave

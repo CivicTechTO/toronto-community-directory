@@ -5,6 +5,7 @@ tags:
   - type/market
   - type/farmers-market
   - neighbourhood/cabbagetown
+  - borough/old-toronto
   - for/food
 link: https://www.cabbagetownmarket.ca/
 address:

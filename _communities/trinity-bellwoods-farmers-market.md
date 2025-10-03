@@ -6,6 +6,7 @@ tags:
   - type/farmers-market
   - for/food
   - neighbourhood/trinity-bellwoods
+  - borough/old-toronto
 link: https://www.tbfm.ca
 address:
   streetAddress: Plaza Bolivar, Trinity Bellwoods Park

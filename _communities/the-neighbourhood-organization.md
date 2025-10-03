@@ -8,6 +8,7 @@ tags:
   - for/settlement
   - audience/immigrants
   - neighbourhood/thorncliffe-park
+  - borough/east-york
 link: https://www.tno-toronto.org
 address:
   streetAddress: 18 Thorncliffe Park Drive

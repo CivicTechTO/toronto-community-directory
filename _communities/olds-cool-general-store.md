@@ -6,7 +6,7 @@ tags:
   - type/venue
   - type/community-hub
   - for/shopping
-  - neighbourhood/east-york
+  - borough/east-york
 link: https://oldscoolgeneralstore.com
 address:
   streetAddress: 250 Westlake Avenue

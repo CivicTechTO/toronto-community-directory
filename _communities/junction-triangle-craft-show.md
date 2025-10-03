@@ -6,6 +6,7 @@ tags:
   - for/shopping
   - type/craft-market
   - neighbourhood/junction-triangle
+  - borough/old-toronto
 link: https://www.facebook.com/junctiontrianglecraftshow/
 address:
   streetAddress: 1621 Dupont Street, Casa Da Madeira Community Centre

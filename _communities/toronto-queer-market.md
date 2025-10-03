@@ -6,6 +6,7 @@ tags:
   - for/shopping
   - audience/queer-community
   - neighbourhood/church-wellesley
+  - borough/old-toronto
 link: http://www.torontoqueermarket.ca/
 address:
   streetAddress: 8 Monteith St, Barbara Hall Park

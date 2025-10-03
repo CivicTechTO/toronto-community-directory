@@ -6,6 +6,7 @@ tags:
   - for/shopping
   - for/community-building
   - neighbourhood/kensington-market
+  - borough/old-toronto
 link: https://neighborlymarket.ca/
 address:
   streetAddress: 224 Augusta Ave

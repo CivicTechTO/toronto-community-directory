@@ -8,6 +8,7 @@ tags:
   - for/advocacy
   - for/volunteering
   - neighbourhood/davenport
+  - borough/old-toronto
 link: https://www.dpcm.ca
 address:
   streetAddress: 1900 Davenport Road

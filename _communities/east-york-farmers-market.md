@@ -5,7 +5,7 @@ tags:
   - type/market
   - type/farmers-market
   - for/food
-  - neighbourhood/east-york
+  - borough/east-york
 link: https://www.facebook.com/EastYorkFarmersMarket/
 address:
   streetAddress: 850 Coxwell Ave

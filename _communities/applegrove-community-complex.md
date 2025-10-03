@@ -8,6 +8,7 @@ tags:
   - for/education
   - for/social-services
   - neighbourhood/riverdale
+  - borough/old-toronto
   - audience/families
 link: https://www.applegrovecc.ca
 address:

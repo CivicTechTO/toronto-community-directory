@@ -6,6 +6,7 @@ tags:
   - type/farmers-market
   - for/food
   - neighbourhood/little-jamaica
+  - borough/york
 link: https://afrocaribbeanfarmersmarket.com
 address:
   streetAddress: 1531 Eglinton Ave West

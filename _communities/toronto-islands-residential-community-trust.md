@@ -6,6 +6,7 @@ tags:
   - type/organization
   - type/community-land-trust
   - neighbourhood/toronto-island
+  - borough/old-toronto
 link: https://torontoisland.org
 address:
   streetAddress: 102 Lakeshore Avenue

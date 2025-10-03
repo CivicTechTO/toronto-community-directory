@@ -7,6 +7,7 @@ tags:
   - for/food
   - for/food-security
   - neighbourhood/carleton-village
+  - borough/old-toronto
 link: https://www.thestop.org
 address:
   streetAddress: 1884 Davenport Road

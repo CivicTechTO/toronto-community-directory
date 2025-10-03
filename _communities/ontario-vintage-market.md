@@ -5,6 +5,7 @@ tags:
   - type/market
   - for/shopping
   - neighbourhood/don-river
+  - borough/old-toronto
 address:
   streetAddress: 550 Bayview Ave
   addressLocality: Toronto

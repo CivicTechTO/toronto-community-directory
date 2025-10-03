@@ -6,6 +6,8 @@ tags:
   - type/neighbourhood-association
   - for/municipal-issues
   - for/advocacy
+  - neighbourhood/davisville-village
+  - borough/old-toronto
 link: https://sedratoronto.ca
 address:
   streetAddress: 1601 Bayview Avenue

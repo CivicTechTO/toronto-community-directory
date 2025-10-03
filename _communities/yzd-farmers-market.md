@@ -6,6 +6,7 @@ tags:
   - type/farmers-market
   - for/food
   - neighbourhood/downsview
+  - borough/north-york
 link: https://www.yzd.ca/event/yzd-farmers-market
 address:
   streetAddress: 34 Hanover Road

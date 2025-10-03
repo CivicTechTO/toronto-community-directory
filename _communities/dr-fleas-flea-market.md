@@ -7,6 +7,7 @@ tags:
   - for/food
   - type/flea-market
   - neighbourhood/clairville
+  - borough/etobicoke
 link: https://drfleas.com/
 address:
   streetAddress: 8 Westmore Dr

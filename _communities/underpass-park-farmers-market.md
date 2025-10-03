@@ -6,6 +6,7 @@ tags:
   - type/farmers-market
   - for/food
   - neighbourhood/west-don-lands
+  - borough/old-toronto
 link: https://underpassparkmarket.com/
 address:
   streetAddress: 29 Lower River Street

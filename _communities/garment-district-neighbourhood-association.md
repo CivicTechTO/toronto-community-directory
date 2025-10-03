@@ -7,6 +7,7 @@ tags:
   - for/municipal-issues
   - for/advocacy
   - neighbourhood/garment-district
+  - borough/old-toronto
 link: https://www.gdnatoronto.org
 social:
   instagram: https://www.instagram.com/gdnatoronto/

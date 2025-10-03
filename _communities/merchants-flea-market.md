@@ -5,7 +5,7 @@ tags:
   - type/market
   - for/shopping
   - type/flea-market
-  - neighbourhood/east-york
+  - borough/east-york
 link: https://www.merchantsfleamarket.com/
 address:
   streetAddress: 1921 Eglinton Ave E

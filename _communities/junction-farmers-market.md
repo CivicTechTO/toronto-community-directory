@@ -5,7 +5,8 @@ tags:
   - type/market
   - type/farmers-market
   - for/food
-  - neighbourhood/junction
+  - neighbourhood/the-junction
+  - borough/old-toronto
 link: https://junctionmarket.ca/
 address:
   streetAddress: 275 Keele St, Baird Park

@@ -4,8 +4,8 @@ description: "Pop-up market on Queen West featuring local vendors and artisans."
 tags:
   - type/market
   - for/shopping
-  - for/community-building
   - neighbourhood/queen-west
+  - borough/old-toronto
 link: https://thewelcomemarket.ca/
 address:
   streetAddress: 938 Queen St W

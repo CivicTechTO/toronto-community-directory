@@ -8,6 +8,7 @@ tags:
   - audience/black-community
   - audience/caribbean-community
   - neighbourhood/little-jamaica
+  - borough/york
 link: https://www.ljclt.ca
 social:
   instagram: https://www.instagram.com/littlejamaicaclt/

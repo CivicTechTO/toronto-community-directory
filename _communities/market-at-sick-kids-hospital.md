@@ -6,6 +6,7 @@ tags:
   - for/food
   - for/community-building
   - neighbourhood/discovery-district
+  - borough/old-toronto
 address:
   streetAddress: 555 University Ave
   addressLocality: Toronto

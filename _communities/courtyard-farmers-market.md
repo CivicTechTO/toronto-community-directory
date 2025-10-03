@@ -6,6 +6,7 @@ tags:
   - type/farmers-market
   - for/food
   - neighbourhood/danforth
+  - borough/old-toronto
 link: https://www.courtyardfarmersmkt.ca/
 address:
   streetAddress: 1549 Danforth Ave

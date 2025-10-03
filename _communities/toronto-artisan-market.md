@@ -6,6 +6,7 @@ tags:
   - for/shopping
   - type/craft-market
   - neighbourhood/trinity-bellwoods
+  - borough/old-toronto
 link: https://www.torontoartisan.com/
 address:
   streetAddress: Trinity Bellwoods Park

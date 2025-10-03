@@ -7,6 +7,7 @@ tags:
   - for/shopping
   - type/night-market
   - neighbourhood/harbourfront
+  - borough/old-toronto
 link: https://harbourfrontcentre.com/
 address:
   streetAddress: 235 Queens Quay West

@@ -6,6 +6,7 @@ tags:
   - type/farmers-market
   - for/food
   - neighbourhood/roncesvalles
+  - borough/old-toronto
 link: https://www.soraurenmarket.com
 address:
   streetAddress: 50 Wabash Ave
