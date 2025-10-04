@@ -7,7 +7,7 @@ tags:
   - for/food
   - neighbourhood/garden-district
   - borough/old-toronto
-link: https://www.friendsofallangardens.ca/calendar/93nb0ljyb9j6xcht0zju5ppkfffkb2
+link: https://www.friendsofallangardens.ca/saturday-farmers-market
 address:
   streetAddress: 160 Gerrard St E
   addressLocality: Toronto
