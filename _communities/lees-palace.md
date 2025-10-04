@@ -6,14 +6,13 @@ description: Lee's Palace is a rock concert hall located on the south side of
   adapted in September 1985 for its current use as a concert venue and
   nightclub.
 source: MCP Generative Addition
-tags: |-
-  tags:
-    - type/venue
-    - for/music
-    - for/concerts
-    - for/rock
-    - neighbourhood/the-annex
-    - borough/old-toronto
+tags:
+  - type/venue
+  - for/music
+  - for/concerts
+  - for/rock
+  - neighbourhood/the-annex
+  - borough/old-toronto
 link: https://www.leespalace.com
 address:
   streetAddress: 529 Bloor Street West

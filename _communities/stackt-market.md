@@ -5,6 +5,8 @@ tags:
   - type/market
   - for/food
   - for/shopping
+  - neighbourhood/fort-york
+  - borough/old-toronto
 link: https://stacktmarket.com/
 address:
   streetAddress: 28 Bathurst St

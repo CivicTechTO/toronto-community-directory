@@ -5,8 +5,9 @@ description: "The Combine is an ongoing experiment in transforming a conventiona
 source: "issue #70 by @jordyarms"
 tags:
   - type/coworking-space
-  - audience/creatives
-  - audience/designers
+  - neighbourhood/entertainment-district
+  - borough/old-toronto
+link: https://thecombine.io
 address:
   streetAddress: 225 Wellington Street West
   addressLocality: Toronto
@@ -16,5 +17,3 @@ social:
   instagram: https://www.instagram.com/thecombine_/
   facebook: https://www.facebook.com/thecombine.io/
 ---
-
-<!-- Community added from GitHub issue #70 -->

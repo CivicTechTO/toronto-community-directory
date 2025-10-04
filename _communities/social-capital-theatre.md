@@ -1,7 +1,6 @@
 ---
 name: Social Capital Theatre
 description: "Toronto Comedy Club, Performing Arts Bar, Improv School, Event Space & purveyors of local craft beer. We host up to 6 shows a night including improv, sketch, standup, independent theatre, storytelling, burlesque, music, book launches and parties. Our improv school has weekly improv drop-ins open to the public, full courses with some of Toronto's best teachers, and student shows to help budding improvisers get stage time and hone their skills."
-source: "NOW Toronto"
 tags:
   - type/venue
   - type/theatre
@@ -9,6 +8,8 @@ tags:
   - for/improv
   - for/comedy
   - for/open-mic
+  - neighbourhood/the-danforth
+  - borough/old-toronto
 link: https://socap.ca/
 address:
   streetAddress: 154 Danforth Avenue

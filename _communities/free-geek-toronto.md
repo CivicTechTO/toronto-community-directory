@@ -5,14 +5,13 @@ description: We are a not-for-profit technology reuse social enterprise in the
   unwanted and end-of-life technology, and work with partners to increase
   digital inclusion in our city.
 source: gnntoronto
-tags: |-
-  tags:
-    - type/organization
-    - for/technology
-    - for/digital-inclusion
-    - for/volunteering
-    - neighbourhood/liberty-village
-    - borough/old-toronto
+tags:
+  - type/organization
+  - for/technology
+  - for/digital-inclusion
+  - for/volunteering
+  - neighbourhood/liberty-village
+  - borough/old-toronto
 link: https://www.freegeektoronto.org
 address:
   streetAddress: 180 Sudbury Street, Unit C3

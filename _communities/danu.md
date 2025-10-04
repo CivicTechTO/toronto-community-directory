@@ -9,13 +9,12 @@ description: "When we started Danu in July 2022, we imagined a place where you
   organizations like Encampment Support Network Parkdale, Climate Justice
   Toronto and The People's Voice to hold meetings and fundraisers."
 source: https://torontoeventgenerator.substack.com/about
-tags: |-
-  tags:
-    - type/event-space
-    - type/venue
-    - for/drinking
-    - neighbourhood/parkdale
-    - borough/old-toronto
+tags:
+  - type/event-space
+  - type/venue
+  - for/drinking
+  - neighbourhood/parkdale
+  - borough/old-toronto
 link: https://www.danusocialhouse.ca
 address:
   streetAddress: 1237 Queen Street West
