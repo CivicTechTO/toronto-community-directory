@@ -1,8 +1,8 @@
 ---
-name: Little Jamaica
+name: Little Jamaic and the Black Business and Professional Association
 description: "Year-round market district on Eglinton Avenue West featuring Caribbean shops, restaurants, cultural venues, and businesses."
 tags:
-  - type/business-improvement-area
+  - type/professional-association
   - for/shopping
   - for/food
   - audience/black-community
