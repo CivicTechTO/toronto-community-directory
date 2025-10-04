@@ -6,7 +6,7 @@ tags:
   - type/organization
   - type/venue
   - for/theatre
-  - for/performing-arts
+  - for/performance-art
   - audience/latinx-community
 link: https://www.alunatheatre.ca
 address:

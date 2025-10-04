@@ -6,6 +6,8 @@ tags:
   - type/neighbourhood-association
   - for/municipal-issues
   - for/advocacy
+  - neighbourhood/baview-village
+  - borough/north-york
 link: http://www.bayviewvillage.org
 address:
   streetAddress: 2901 Bayview Avenue, P.O. Box 91065

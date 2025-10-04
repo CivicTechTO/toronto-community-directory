@@ -5,7 +5,7 @@ tags:
   - type/market
   - for/shopping
   - audience/queer-community
-  - neighbourhood/church-wellesley
+  - neighbourhood/church-and-wellesley
   - borough/old-toronto
 link: http://www.torontoqueermarket.ca/
 address:

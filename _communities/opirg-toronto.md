@@ -17,7 +17,6 @@ tags:
   - for/social-justice
   - for/anti-racism
   - for/volunteering
-  - neighbourhood/university-of-toronto
   - neighbourhood/discovery-district
   - borough/old-toronto
   - audience/post-secondary-students

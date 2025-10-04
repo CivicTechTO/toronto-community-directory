@@ -7,7 +7,7 @@ tags:
   - type/organization
   - for/music
   - for/mentorship
-  - for/arts
+  - for/art
   - borough/old-toronto
 link: https://venusfest.net
 social:

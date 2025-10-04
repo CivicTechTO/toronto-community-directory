@@ -7,7 +7,7 @@ tags:
   - for/food
   - for/exploring-the-city
   - audience/foodies
-  - neighbourhood/scarborough
+  - borough/scarborough
 link: https://www.eatmorescarborough.com
 address:
   addressLocality: Scarborough

@@ -7,6 +7,8 @@ tags:
   - type/tool-library
   - for/tools
   - for/diy
+  - neighbourhood/junction-triangle
+  - borough/old-toronto
 social:
   instagram: https://www.instagram.com/westendtoollibrary/
 address:

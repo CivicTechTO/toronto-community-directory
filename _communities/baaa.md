@@ -8,6 +8,7 @@ tags:
   - for/art
   - for/architecture
   - for/education
+  - neighbourhood/junction-triangle
   - borough/old-toronto
 link: https://www.instagram.com/baaa______baaa/
 address:

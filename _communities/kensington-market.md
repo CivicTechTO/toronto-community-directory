@@ -5,7 +5,7 @@ tags:
   - type/business-improvement-area
   - for/shopping
   - for/food
-  - neighbourhood/kensington
+  - neighbourhood/kensington-market
   - borough/old-toronto
 link: https://kensingtonmarket.to/
 address:

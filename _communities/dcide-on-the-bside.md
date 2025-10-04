@@ -8,6 +8,8 @@ tags:
   - for/music
   - for/participation
   - for/vinyl
+  - neighbourhood/little-portugal
+  - borough/old-toronto
 link: https://www.instagram.com/michaellouisjohnson/
 address:
   streetAddress: 1149 Dundas Street West

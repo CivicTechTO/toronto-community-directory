@@ -5,7 +5,6 @@ tags:
   - type/market
   - type/farmers-market
   - for/food
-  - neighbourhood/east-york
   - borough/east-york
   - audience/black-community
   - audience/indigenous-community

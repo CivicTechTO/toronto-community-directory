@@ -7,7 +7,6 @@ tags:
   - type/sport-league
   - for/curling
   - for/sports
-  - audience/all-ages
   - neighbourhood/leaside
   - borough/east-york
 link: https://leasidecurling.ca

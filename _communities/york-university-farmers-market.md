@@ -6,7 +6,7 @@ tags:
   - type/farmers-market
   - for/food
   - for/community-building
-  - for/post-secondary-students
+  - audience/post-secondary-students
   - neighbourhood/york-university-heights
   - borough/north-york
 link: https://regenesis.eco/

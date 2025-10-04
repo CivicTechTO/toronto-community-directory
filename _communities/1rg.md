@@ -6,6 +6,7 @@ tags:
   - type/event-space
   - type/coworking-space
   - audience/technologists
+  - neighbourhood/the-junction
   - borough/old-toronto
 link: https://1rg.space/
 address:

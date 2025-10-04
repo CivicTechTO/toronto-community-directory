@@ -5,7 +5,7 @@ source: "https://www.communityland.ca/canadian-clts/"
 tags:
   - type/organization
   - type/community-land-trust
-  - neighbourhood/kensington
+  - neighbourhood/kensington-market
   - borough/old-toronto
 link: https://kmclt.ca
 address:

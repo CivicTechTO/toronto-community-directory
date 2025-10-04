@@ -6,7 +6,7 @@ tags:
   - type/community-centre
   - for/social-services
   - for/poverty-reduction
-  - neighbourhood/jane-finch
+  - neighbourhood/jane-and-finch
   - borough/north-york
   - audience/families
 link: https://www.jfcfc.org

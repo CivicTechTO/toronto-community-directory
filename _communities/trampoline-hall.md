@@ -7,6 +7,7 @@ tags:
   - for/lectures
   - for/absurdity
   - for/participation
+  - neighbourhood/little-portugal
   - borough/old-toronto
 link: https://www.trampolinehall.net/
 address:

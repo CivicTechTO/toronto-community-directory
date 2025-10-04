@@ -7,7 +7,7 @@ tags:
   - type/theatre
   - type/venue
   - for/theatre
-  - for/performing-arts
+  - for/performance-art
 link: https://www.crowstheatre.com
 address:
   streetAddress: 345 Carlaw Avenue

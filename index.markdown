@@ -23,6 +23,7 @@ title: Home
 <li>by using the <a href="https://github.com/CivicTechTO/toronto-community-directory/issues/new?template=add_community.yml
 ">add a community</a> issue form template on github.</li>
 <li>by including a record in <code>_communities</code> on <a href="https://github.com/CivicTechTO/toronto-community-directory">CivicTechTO/toronto-community-directory</a>.</li>
+<li>tell Jordy in person at Civic Tech Toronto on Tuesday nights.</li>
 </ol>
 </details>
 <hr/>

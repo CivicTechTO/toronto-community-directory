@@ -6,7 +6,7 @@ tags:
   - type/venue
   - type/organization
   - for/music
-  - for/performing-arts
+  - for/performance-art
   - neighbourhood/the-annex
   - neighbourhood/harbord-village
   - borough/old-toronto

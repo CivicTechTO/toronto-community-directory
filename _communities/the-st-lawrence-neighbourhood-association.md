@@ -7,6 +7,8 @@ tags:
   - type/neighbourhood-association
   - for/volunteering
   - for/municipal-issues
+  - neighbourhood/st-lawrence
+  - borough/old-toronto
 social:
   facebook: https://www.facebook.com/StLawrenceNeighbourhoodAssociation/
   twitter: https://x.com/slnaspeaks

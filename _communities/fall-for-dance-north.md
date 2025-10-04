@@ -6,7 +6,7 @@ tags:
   - type/annual-event
   - type/festival
   - for/dance
-  - for/performance-arts
+  - for/performance-art
 link: https://www.ffdnorth.com
 address:
   streetAddress: 5-112 Elizabeth Street, #324
