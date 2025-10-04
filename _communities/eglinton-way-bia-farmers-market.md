@@ -5,6 +5,8 @@ tags:
   - type/market
   - type/farmers-market
   - for/food
+  - neighbourhood/forest-hill
+  - borough/old-toronto
 link: https://www.theeglintonway.com/farmersmarket
 address:
   streetAddress: 125 Burnaby Blvd

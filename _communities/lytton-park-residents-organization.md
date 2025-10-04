@@ -7,6 +7,8 @@ tags:
   - for/municipal-issues
   - for/advocacy
   - for/volunteering
+  - neighbourhood/lytton-park
+  - borough/old-toronto
 link: https://lyttonparkro.ca
 ---
 

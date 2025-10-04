@@ -5,6 +5,8 @@ source: https://lightmorning.substack.com/p/weave-report-summer-2025-edition
 tags:
   - type/event-series
   - for/networking
+  - neighbourhood/the-annex
+  - borough/old-toronto
 link: https://officehours.bar/
 address:
   streetAddress: 440 Bloor Street West

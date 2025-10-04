@@ -2,7 +2,7 @@
 name: Trefann Court Residents Association
 description: "A residents association with a long and colourful history, founded in 1966. The area bounded by Queen, Parliament, Shuter and River streets is a special and unique area of downtown Toronto, designated as a neighbourhood area with lower scale buildings such as detached houses, semi-detached houses, duplexes, triplexes and townhouses."
 tags:
-  - type/residents-association
+  - type/neighbourhood-association
   - neighbourhood/trefann-court
   - borough/old-toronto
 link: http://www.trefann.org

@@ -1,12 +1,13 @@
 ---
 name: The Garrison
 description: "A live music venue, hangout bar, comedy stage, party palace, performance space, music community hub."
-source: "MCP Generative Addition"
 tags:
   - type/venue
   - for/music
   - for/comedy
   - for/concerts
+  - neighbourhood/trinity-bellwoods
+  - borough/old-toronto
 link: http://www.garrisontoronto.com
 address:
   streetAddress: 1197 Dundas Street West

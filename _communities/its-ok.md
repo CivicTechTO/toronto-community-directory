@@ -1,7 +1,6 @@
 ---
 name: It's OK*
 description: "It's OK* was established in 2019 with a mission to ensure equitable representation and create opportunities for Black Artists and Black Arts workers. This includes developing infrastructure, building creative capacities, engaging audiences, enabling artists, connecting industry, and developing collaboration with creatives within all disciplines."
-source: "MCP Generative Addition"
 tags:
   - type/organization
   - type/venue
@@ -10,6 +9,8 @@ tags:
   - for/art
   - for/community-building
   - audience/black-community
+  - neighbourhood/queen-street-west
+  - borough/old-toronto
 link: https://itsokworld.com
 address:
   streetAddress: 468 Queen Street West

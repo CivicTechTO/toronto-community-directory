@@ -4,7 +4,6 @@ description: "A social and support community for ex-Muslims in Toronto and the s
 source: "MCP Generative Addition"
 tags:
   - type/organization
-  - type/community
   - for/support
   - for/socializing
   - audience/ex-muslims

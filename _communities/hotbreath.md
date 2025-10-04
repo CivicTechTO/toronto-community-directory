@@ -5,6 +5,8 @@ source: "https://torontoeventgenerator.substack.com/about"
 tags:
   - type/event-series
   - for/karaoke
+  - neighbourhood/kensington-market
+  - borough/old-toronto
 link: https://www.thehouseofhotbreath.com/
 address:
   streetAddress: 159 Augusta Avenue

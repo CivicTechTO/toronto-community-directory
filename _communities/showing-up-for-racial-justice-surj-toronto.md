@@ -10,7 +10,7 @@ description:
   to Black, Indigenous, and racialized communities.
 source: "issue #95 by @plzhelpmevoid"
 tags:
-  - type/community
+  - type/grassroots
   - for/social-justice
   - for/skill-sharing
   - for/education

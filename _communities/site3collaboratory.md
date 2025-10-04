@@ -1,7 +1,6 @@
 ---
 name: Site 3 CoLaboratory
 description: "Site 3 CoLaboratory is a volunteer run maker space in Toronto's west end, at Ossington and Bloor. The shop is 2000 square feet and is fully equipped with woodworking tools, metal-working tools, 3D printers, electronics and more! The vision for our organization is to provide an inclusive space that promotes a four step cycle of create, display, teach and inspire."
-source: "@admin included 2025-08-29"
 tags:
   - type/maker-space
   - for/woodworking
@@ -9,6 +8,8 @@ tags:
   - for/electronics
   - for/technology
   - audience/makers
+  - neighbourhood/bloorcourt-village
+  - borough/old-toronto
 link: https://www.site3.ca
 address:
   streetAddress: 718R Ossington Avenue

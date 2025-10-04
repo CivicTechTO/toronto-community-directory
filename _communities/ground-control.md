@@ -8,6 +8,8 @@ tags:
   - for/music
   - for/dancing
   - for/karaoke
+  - neighbourhood/queen-street-west
+  - borough/old-toronto
 link: https://www.instagram.com/groundcontroltoronto
 address:
   streetAddress: 1279 Queen Street West

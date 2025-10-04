@@ -6,6 +6,8 @@ tags:
   - type/venue
   - for/music
   - for/creativity
+  - neighbourhood/wallace-emerson
+  - borough/old-toronto
 link: https://www.division88.com
 address:
   streetAddress: 225 Geary Avenue

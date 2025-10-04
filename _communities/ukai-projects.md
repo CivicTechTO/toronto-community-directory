@@ -1,6 +1,8 @@
 ---
 name: UKAI Projects
-description: "UKAI Projects is a federally incorporated non-profit cultural organization based in Canada and operating globally. Our mission is 'culture for what's coming'."
+description: UKAI Projects is a federally incorporated non-profit cultural
+  organization based in Canada and operating globally. Our mission is 'culture
+  for what's coming'.
 source: "issue #46 by @jordyarms"
 tags:
   - type/organization
@@ -8,6 +10,8 @@ tags:
   - for/art
   - for/technology
   - audience/artists
+  - neighbourhood/fashion-district
+  - borough/old-toronto
 link: https://ukaiprojects.com
 address:
   streetAddress: 379 Adelaide Street West

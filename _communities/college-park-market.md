@@ -4,6 +4,8 @@ description: "Seasonal monthly market held the first Wednesday from June to Octo
 tags:
   - type/market
   - for/food
+  - neighbourhood/garden-district
+  - borough/old-toronto
 link: https://www.appletreemarkets.ca/markets
 address:
   streetAddress: 420 Yonge St

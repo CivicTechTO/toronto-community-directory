@@ -4,7 +4,7 @@ description: "With more than 1,000 members and 20+ leagues for curlers of all ag
 source: "MCP Generative Addition"
 tags:
   - type/club
-  - type/sport-league
+  - type/sports-league
   - for/curling
   - for/sports
   - neighbourhood/leaside
