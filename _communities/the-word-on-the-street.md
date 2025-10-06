@@ -4,7 +4,9 @@ description: "The Word On The Street Toronto is an annual celebration of storyte
 source: admin
 tags:
   - type/annual-event
+  - type/festival
   - for/reading
+  - for/poetry
 link: https://toronto.thewordonthestreet.ca
 address:
   streetAddress: 215 King Street West
