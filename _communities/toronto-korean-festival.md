@@ -4,7 +4,7 @@ description: "The Toronto Korean Festival is the biggest Korean festival in Cana
 tags:
   - type/festival
   - type/annual-event
-  - for/culture-exchange
+  - for/cultural-exchange
   - for/food
   - for/music
   - audience/korean-community

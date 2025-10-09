@@ -4,7 +4,7 @@ description: "The European Union Film Festival presents a curated selection of 2
 tags:
   - type/film-festival
   - for/film
-  - for/culture-exchange
+  - for/cultural-exchange
   - audience/europeans
   - neighbourhood/the-annex
   - borough/old-toronto

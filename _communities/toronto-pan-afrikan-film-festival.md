@@ -5,7 +5,7 @@ tags:
   - type/film-festival
   - for/film
   - for/arts
-  - for/culture-exchange
+  - for/cultural-exchange
   - audience/black-community
   - audience/african-diaspora
   - neighbourhood/little-jamaica

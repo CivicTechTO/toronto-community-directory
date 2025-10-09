@@ -4,7 +4,7 @@ description: "FILMI aims to promote, discover and celebrate South Asian Films an
 tags:
   - type/film-festival
   - for/film
-  - for/culture-exchange
+  - for/cultural-exchange
   - audience/south-asian-community
 link: https://filmifestival.org
 social:
