@@ -22,4 +22,9 @@ social:
   instagram: https://www.instagram.com/tomediaarts/
   facebook: https://www.facebook.com/TOMediaArts/
   twitter: https://twitter.com/tomediaarts
+published: false
+status:
+  designation: inactive
+  date: 2025-10-09
+  auditor: "@jordyarms"
 ---

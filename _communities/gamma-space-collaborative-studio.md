@@ -10,11 +10,6 @@ tags:
   - for/mentorship
   - audience/indie-game-developers
 link: https://www.gammaspace.ca
-address:
-  streetAddress: 32 Lisgar Street
-  addressLocality: Toronto
-  addressRegion: ON
-  postalCode: M6J 0C9
 social:
   instagram: https://www.instagram.com/gammaspaceto/
   facebook: https://www.facebook.com/GammaSpaceTO/
