@@ -7,6 +7,7 @@ tags:
   - for/cycling
   - for/body-positivity
   - for/nudism
+  - audience/cyclists
 link: http://worldnakedbikeridetoronto.com/tdmain.htm
 social:
   instagram: https://www.instagram.com/wnbr_toronto/
