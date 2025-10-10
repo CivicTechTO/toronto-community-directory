@@ -1,18 +1,20 @@
 ---
 name: GTALUG
-link: https://gtalug.org/
-description: GTALUG, formerly called TLUG, helps unite Toronto area Linux users. Since
-  the early 1990s, GTALUG has provided a common forum to exchange information pertaining
-  to Linux and other open source software and operating platforms. Members meet regularly
-  at our F2F (in person) meeting locations, participate in our email discussion list,
-  and use the resource facilities of this website. Through participation in the GTALUG
-  forums, and the use of the GTALUG resources, we combine our efforts to both teach
-  and disseminate information, allowing us to better understand and control the open
-  source world we are using, building and promoting to others.
-source: 'issue #109 by @myles'
+description: "Greater Toronto Area Linux User Group (GTALUG), formerly TLUG, helps unite Toronto area Linux users. Since the early 1990s, GTALUG has provided a common forum to exchange information pertaining to Linux and other open source software and operating platforms. Members meet monthly at Toronto Metropolitan University and participate in email discussion lists."
 tags:
-- type/meetup-group
-- for/technology
+  - type/organization
+  - type/meetup
+  - for/technology
+  - for/linux
+  - for/open-source
+  - neighbourhood/garden-district
+  - borough/old-toronto
+link: https://gtalug.org
+address:
+  streetAddress: 245 Church Street, TMU George Vari Engineering and Computing Centre, Room 201
+  addressLocality: Toronto
+  addressRegion: ON
+social:
+  mastodon: https://social.gtalug.org/gtalug
+  github: https://github.com/gtalug
 ---
-
-<!-- Community added from GitHub issue #109 -->

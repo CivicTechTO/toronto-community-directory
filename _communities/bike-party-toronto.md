@@ -1,11 +1,15 @@
 ---
 name: Bike Party Toronto
-link: https://www.instagram.com/bikepartytoronto
-description: Bikes. Lights. Music. Toronto's Bike Party! Ridiculousness ensues! For
-  the fun of it!
-source: 'issue #114 by @myles'
+description: "Bikes. Lights. Music. Toronto's Bike Party! A mobile dance party and rolling rave where riders deck out their bikes with lights, bring speakers, and ride through Toronto's streets to a shared playlist. Ridiculousness ensues! For the fun of it!"
 tags:
-- type/party for/ravers
+  - type/event-series
+  - for/cycling
+  - for/nightlife
+  - audience/cyclists
+  - audience/ravers
+link: https://bikepartytoronto.square.site
+social:
+  instagram: https://www.instagram.com/bikepartytoronto/
+  facebook: https://www.facebook.com/BikePartyToronto/
+  twitter: https://twitter.com/bikepartyTO
 ---
-
-<!-- Community added from GitHub issue #114 -->
