@@ -18,7 +18,12 @@ small {
   padding: 0.2rem 0.4rem;
   font-size: 0.6rem;
   color: var(--pico-primary);
-  margin-right: calc(var(--pico-nav-element-spacing-horizontal) / 2);
+}
+
+.tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.125rem;
 }
 
 #filter-bar {
