@@ -1,17 +1,15 @@
 ---
 name: Toronto Art Crawl
-description: "Pop-up art market and event series, often held at The Bentway, featuring local artists and artisans."
+description: "Toronto Art Crawl hosts multiple free outdoor art markets and exhibitions throughout the year, featuring 140+ Toronto artists and artisans selling art, photography, sculptures, jewellery, fashion, home decor, and one-of-a-kind items. Events include the annual Christmas Market, Urban Exhibit, and seasonal pop-ups at locations like The Bentway in King West."
 tags:
+  - type/event-series
   - type/market
-  - for/shopping
   - for/art
-  - neighbourhood/fort-york
-  - borough/old-toronto
-link: https://www.torontoartcrawl.com/liberty-village-art-crawl-june-8-2024
-address:
-  streetAddress: 250 Fort York Blvd, The Bentway
-  addressLocality: Toronto
-  addressRegion: ON
+  - for/shopping
+  - for/community
+  - audience/artists
+link: https://www.torontoartcrawl.com
 social:
   instagram: https://www.instagram.com/torontoartcrawl/
+  facebook: https://www.facebook.com/torontoartcrawl/
 ---
