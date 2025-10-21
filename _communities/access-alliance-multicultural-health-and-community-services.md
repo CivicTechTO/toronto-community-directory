@@ -10,6 +10,10 @@ tags:
   - audience/immigrants
   - audience/refugees
 link: https://accessalliance.ca
+social:
+  instagram: https://www.instagram.com/accessalliance.ca/
+  facebook: https://www.facebook.com/AccessAlliance
+  linkedin: https://www.linkedin.com/company/access-alliance-multicultural-health-and-community-services/
 address:
   streetAddress: 340 College Street, Suite 500
   addressLocality: Toronto
