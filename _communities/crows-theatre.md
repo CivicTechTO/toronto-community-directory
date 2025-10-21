@@ -1,6 +1,6 @@
 ---
 name: Crow's Theatre
-description: "Resonating with Toronto's civic, community and cultural milieu – Crow's Theatre at Streetcar Crowsnest adapts and evolves as the social, economic, cultural environment of the city adapts and evolves. Crow's Theatre is distinguished as a preeminent cultural destination for its far-reaching imagination, ideas, exchange, diversity and grassroots belief in how artists and their work can change and sustain the life of communities."
+description: Resonating with Toronto's civic, community and cultural milieu – Crow's Theatre at Streetcar Crowsnest adapts and evolves as the social, economic, cultural environment of the city adapts and evolves. Crow's Theatre is distinguished as a preeminent cultural destination for its far-reaching imagination, ideas, exchange, diversity and grassroots belief in how artists and their work can change and sustain the life of communities.
 tags:
   - type/organization
   - type/theatre
@@ -18,4 +18,5 @@ address:
 social:
   instagram: https://www.instagram.com/crowstheatre/
   facebook: https://www.facebook.com/crowstheatre/
+owl:sameAs: https://www.wikidata.org/wiki/Q100965296
 ---

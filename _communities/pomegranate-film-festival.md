@@ -15,4 +15,5 @@ address:
 social:
   instagram: https://www.instagram.com/pomfilmfest/
   facebook: https://www.facebook.com/POMFilmFest
+owl:sameAs: http://www.wikidata.org/entity/Q4147769
 ---

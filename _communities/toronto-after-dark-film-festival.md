@@ -15,5 +15,7 @@ address:
   postalCode: M5V 1W2
 social:
   instagram: https://www.instagram.com/tadfilmfest/
-  facebook: https://www.facebook.com/TADFilmFest/
+  facebook: https://www.facebook.com/TorontoAfterDarkFilmFestival/
+  twitter: https://x.com/TADFilmFest
+owl:sameAs: http://www.wikidata.org/entity/Q7826262
 ---

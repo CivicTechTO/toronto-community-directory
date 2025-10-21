@@ -18,4 +18,5 @@ social:
   instagram: https://www.instagram.com/imagesfestival/
   facebook: https://www.facebook.com/imagesfestival/
   twitter: https://x.com/imagesfestival
+owl:sameAs: http://www.wikidata.org/entity/Q17107915
 ---

@@ -15,4 +15,5 @@ address:
 social:
   facebook: https://www.facebook.com/torontofringe/
   instagram: https://www.instagram.com/toronto_fringe/
+owl:sameAs: http://www.wikidata.org/entity/Q7826392
 ---

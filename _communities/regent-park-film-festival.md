@@ -18,4 +18,5 @@ address:
 social:
   instagram: https://www.instagram.com/regentparkfilm/
   facebook: https://www.facebook.com/regentparkfilm/
+owl:sameAs: http://www.wikidata.org/entity/Q7308094
 ---

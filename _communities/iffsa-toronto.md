@@ -16,4 +16,5 @@ address:
 social:
   instagram: https://www.instagram.com/iffsatoronto/
   facebook: https://www.facebook.com/IFFSAToronto/
+owl:sameAs: http://www.wikidata.org/entity/Q28946372
 ---

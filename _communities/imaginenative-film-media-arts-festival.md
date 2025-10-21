@@ -17,4 +17,5 @@ address:
 social:
   instagram: https://www.instagram.com/imaginenative/
   facebook: https://www.facebook.com/imagineNATIVE/
+owl:sameAs: http://www.wikidata.org/entity/Q17107921
 ---

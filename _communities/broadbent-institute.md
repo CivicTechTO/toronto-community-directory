@@ -1,6 +1,6 @@
 ---
 name: Broadbent Institute
-description: "The Broadbent Institute is Canada's preeminent social democratic think-tank. Founded in 2011 by Ed Broadbent, and guided by the Broadbent Principles for Canadian Social Democracy, the Institute produces original research, convenes progressive dialogues and trains leaders to equip social movements working to advance justice and equality."
+description: The Broadbent Institute is Canada's preeminent social democratic think-tank. Founded in 2011 by Ed Broadbent, and guided by the Broadbent Principles for Canadian Social Democracy, the Institute produces original research, convenes progressive dialogues and trains leaders to equip social movements working to advance justice and equality.
 tags:
   - type/organization
   - type/think-tank
@@ -21,4 +21,5 @@ social:
   linkedin: https://www.linkedin.com/company/broadbentinstitute
   bluesky: https://bsky.app/profile/broadbent.bsky.social
   tiktok: https://www.tiktok.com/@broadbent.institute
+owl:sameAs: https://www.wikidata.org/wiki/Q4972041
 ---

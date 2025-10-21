@@ -16,4 +16,5 @@ social:
   instagram: https://www.instagram.com/pridetoronto/
   twitter: https://twitter.com/PrideToronto
   facebook: https://www.facebook.com/PrideToronto/
+owl:sameAs: http://www.wikidata.org/entity/Q3478318
 ---

@@ -12,4 +12,5 @@ social:
   facebook: https://www.facebook.com/TOSantaParade/
   twitter: https://twitter.com/TOSantaParade
   youtube: https://www.youtube.com/@TheOriginalSantaClausParade
+owl:sameAs: http://www.wikidata.org/entity/Q3995076
 ---

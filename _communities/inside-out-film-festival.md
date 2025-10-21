@@ -17,4 +17,5 @@ address:
 social:
   instagram: https://www.instagram.com/insideoutfestival/
   facebook: https://www.facebook.com/InsideOutFilmFestival/
+owl:sameAs: http://www.wikidata.org/entity/Q6037764
 ---

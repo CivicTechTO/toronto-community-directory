@@ -1,7 +1,7 @@
 ---
 name: Buffer Festival
-description: "Buffer Festival is an international digital video festival, held annually in Toronto, Ontario."
-source: "MCP Generative Addition"
+description: Buffer Festival is an international digital video festival, held annually in Toronto, Ontario.
+source: MCP Generative Addition
 tags:
   - type/annual-event
   - type/film-festival
@@ -18,4 +18,5 @@ social:
   instagram: https://www.instagram.com/bufferfestival/
   facebook: https://www.facebook.com/BufferFestival/
   twitter: https://x.com/bufferfestival
+owl:sameAs: https://www.wikidata.org/wiki/Q24190585
 ---

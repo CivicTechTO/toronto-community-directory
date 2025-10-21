@@ -17,4 +17,5 @@ social:
   instagram: https://www.instagram.com/ffdnorth/
   facebook: https://www.facebook.com/fallfordancenorth/
   twitter: https://x.com/ffdnorth
+owl:sameAs: http://www.wikidata.org/entity/Q76179596
 ---

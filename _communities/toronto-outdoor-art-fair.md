@@ -18,4 +18,5 @@ social:
   facebook: https://www.facebook.com/torontooutdoorart/
   twitter: https://twitter.com/torontoartfair
   youtube: https://www.youtube.com/@torontooutdoorartfair
+owl:sameAs: http://www.wikidata.org/entity/Q97404904
 ---

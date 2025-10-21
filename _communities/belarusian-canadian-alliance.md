@@ -1,6 +1,6 @@
 ---
 name: Belarusian Canadian Alliance
-description: "Representing Belarusian Canadians since 1948, the Belarusian Canadian Alliance is a community organization that represents the Belarusian-Canadian community to the people and government of Canada. The Alliance holds cultural events, maintains contact with local organizations and politicians, supports the Belarusian diaspora in Canada, and promotes democratic changes in Belarus."
+description: Representing Belarusian Canadians since 1948, the Belarusian Canadian Alliance is a community organization that represents the Belarusian-Canadian community to the people and government of Canada. The Alliance holds cultural events, maintains contact with local organizations and politicians, supports the Belarusian diaspora in Canada, and promotes democratic changes in Belarus.
 tags:
   - type/organization
   - type/community-organization
@@ -18,4 +18,5 @@ social:
   instagram: https://www.instagram.com/belaruscanada/
   facebook: https://www.facebook.com/belarusian.canadian.alliance/
   twitter: https://twitter.com/BelarusCanada
+owl:sameAs: https://www.wikidata.org/wiki/Q13030857
 ---

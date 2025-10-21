@@ -1,6 +1,6 @@
 ---
 name: Canadian Film Fest
-description: "For almost two decades, Canadian Film Fest has fostered the indie filmmaking community of The North. With an unrelenting dedication to Canadian voices, the festival exclusively showcases work from Canada's filmmakers - homegrown established talent and newcomers alike. The festival includes industry events with learning and networking opportunities, celebrating Canadian film annually."
+description: For almost two decades, Canadian Film Fest has fostered the indie filmmaking community of The North. With an unrelenting dedication to Canadian voices, the festival exclusively showcases work from Canada's filmmakers - homegrown established talent and newcomers alike. The festival includes industry events with learning and networking opportunities, celebrating Canadian film annually.
 tags:
   - type/festival
   - type/film-festival
@@ -20,4 +20,5 @@ social:
   instagram: https://www.instagram.com/canfilmfest/
   facebook: https://www.facebook.com/CanFilmFest
   twitter: https://twitter.com/CanFilmFest
+owl:sameAs: https://www.wikidata.org/wiki/Q125606413
 ---

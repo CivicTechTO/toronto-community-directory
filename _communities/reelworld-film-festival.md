@@ -19,4 +19,5 @@ social:
   instagram: https://www.instagram.com/reelworld/
   facebook: https://www.facebook.com/ReelworldFilm/
   twitter: https://x.com/reelworldfilm
+owl:sameAs: http://www.wikidata.org/entity/Q7306840
 ---

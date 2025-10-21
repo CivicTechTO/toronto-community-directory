@@ -1,6 +1,6 @@
 ---
 name: Canadian Labour International Film Festival
-description: "The Canadian Labour International Film Festival (CLiFF) features films made by, for, and about the world of work and those who do it, in Canada and internationally. Founded in 2009, CLiFF is a free national film festival held across Canada every year in November, showcasing films about unionized workers and those not represented by unions."
+description: The Canadian Labour International Film Festival (CLiFF) features films made by, for, and about the world of work and those who do it, in Canada and internationally. Founded in 2009, CLiFF is a free national film festival held across Canada every year in November, showcasing films about unionized workers and those not represented by unions.
 tags:
   - type/film-festival
   - for/film
@@ -16,4 +16,5 @@ social:
   instagram: https://www.instagram.com/labour_films/
   facebook: https://www.facebook.com/labourfilms/
   twitter: https://twitter.com/labourfilms
+owl:sameAs: https://www.wikidata.org/wiki/Q125606417
 ---

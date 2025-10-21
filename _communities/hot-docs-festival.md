@@ -17,4 +17,5 @@ social:
   instagram: https://www.instagram.com/hotdocs_/
   facebook: https://www.facebook.com/hotdocsfestival/
   twitter: https://x.com/hotdocs
+owl:sameAs: http://www.wikidata.org/entity/Q5909927
 ---

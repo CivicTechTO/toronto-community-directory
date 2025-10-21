@@ -1,6 +1,6 @@
 ---
 name: Art Metropole
-description: "Art Metropole is a non-profit artist-run centre that publishes, promotes, exhibits, archives, and distributes artists' books, multiples, and related media. We produce exhibitions, talks, readings, and other programs that highlight artists who make books and other artworks that can be widely circulated."
+description: Art Metropole is a non-profit artist-run centre that publishes, promotes, exhibits, archives, and distributes artists' books, multiples, and related media. We produce exhibitions, talks, readings, and other programs that highlight artists who make books and other artworks that can be widely circulated.
 source: admin
 tags:
   - type/organization
@@ -17,4 +17,5 @@ address:
 social:
   instagram: https://www.instagram.com/artmetropole/
   facebook: https://www.facebook.com/@artmetropole/
+owl:sameAs: https://www.wikidata.org/wiki/Q4796975
 ---

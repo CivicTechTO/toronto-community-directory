@@ -13,4 +13,5 @@ link: https://torontosummermusic.com
 social:
   instagram: https://www.instagram.com/torontosummermusic/
   facebook: https://www.facebook.com/TorontoSummerMusic/
+owl:sameAs: http://www.wikidata.org/entity/Q17118532
 ---

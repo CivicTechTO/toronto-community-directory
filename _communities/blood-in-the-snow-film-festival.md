@@ -18,4 +18,5 @@ social:
   instagram: https://www.instagram.com/bitsfilmfest/
   facebook: https://www.facebook.com/bitsfilmfest/
   twitter: https://twitter.com/bitsfilmfest
+owl:sameAs: http://www.wikidata.org/entity/Q24807043
 ---

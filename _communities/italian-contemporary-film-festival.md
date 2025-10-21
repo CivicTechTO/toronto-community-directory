@@ -17,4 +17,5 @@ social:
   instagram: https://www.instagram.com/icffcanada/
   facebook: https://www.facebook.com/ICFFCanada/
   twitter: https://x.com/icffcanada
+owl:sameAs: http://www.wikidata.org/entity/Q6092698
 ---

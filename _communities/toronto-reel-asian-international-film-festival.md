@@ -17,4 +17,5 @@ address:
   postalCode: M5V 3A8
 social:
   instagram: https://www.instagram.com/reelasian/
+owl:sameAs: http://www.wikidata.org/entity/Q7826491
 ---

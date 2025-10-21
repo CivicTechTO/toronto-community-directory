@@ -13,4 +13,5 @@ social:
   instagram: https://www.instagram.com/torontoblackfilmfest/
   facebook: https://www.facebook.com/torontoblackfilmfestival/
   twitter: https://x.com/toblackfilmfest
+owl:sameAs: http://www.wikidata.org/entity/Q85810223
 ---

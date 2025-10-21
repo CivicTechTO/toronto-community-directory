@@ -1,6 +1,6 @@
 ---
 name: CONTACT
-description: "CONTACT is a Toronto based non-profit organization dedicated to exhibiting, analyzing and celebrating photography and lens-based media through an annual festival that takes place every May."
+description: CONTACT is a Toronto based non-profit organization dedicated to exhibiting, analyzing and celebrating photography and lens-based media through an annual festival that takes place every May.
 source: admin
 tags:
   - type/annual-event
@@ -17,4 +17,5 @@ social:
   instagram: https://www.instagram.com/contactphoto/
   facebook: https://www.facebook.com/CONTACTPhotography/
   twitter: https://twitter.com/contactphoto
+owl:sameAs: https://www.wikidata.org/wiki/Q135914328
 ---

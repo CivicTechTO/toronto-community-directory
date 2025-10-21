@@ -15,4 +15,5 @@ social:
   twitter: https://twitter.com/TorontoJazzFest
   tiktok: https://www.tiktok.com/@torontojazzfest
   linkedin: https://www.linkedin.com/company/td-toronto-jazz-festival
+owl:sameAs: http://www.wikidata.org/entity/Q7826429
 ---

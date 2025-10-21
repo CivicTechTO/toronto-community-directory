@@ -20,4 +20,5 @@ social:
   instagram: https://www.instagram.com/fanexpocanada/
   facebook: https://www.facebook.com/fanexpocanada/
   twitter: https://twitter.com/FANEXPOCANADA
+owl:sameAs: http://www.wikidata.org/entity/Q5433535
 ---

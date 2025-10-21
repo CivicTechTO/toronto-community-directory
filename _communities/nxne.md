@@ -14,4 +14,5 @@ address:
   postalCode: M6J 1J4
 social:
   instagram: https://www.instagram.com/nxne/
+owl:sameAs: http://www.wikidata.org/entity/Q3344186
 ---

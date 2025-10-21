@@ -12,4 +12,5 @@ social:
   instagram: https://www.instagram.com/tjffgrams/
   twitter: https://twitter.com/tjfftweets
   facebook: https://www.facebook.com/TorontoJewishFilmFestival
+owl:sameAs: http://www.wikidata.org/entity/Q18353529
 ---

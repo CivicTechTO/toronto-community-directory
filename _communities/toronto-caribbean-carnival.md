@@ -16,6 +16,7 @@ address:
   postalCode: M6K 3C3
 social:
   instagram: https://www.instagram.com/torontocarnival.ca/
+owl:sameAs: http://www.wikidata.org/entity/Q3069874
 ---
 
 <!-- Community added from GitHub issue #74 -->

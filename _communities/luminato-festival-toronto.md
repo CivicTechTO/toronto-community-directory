@@ -20,4 +20,5 @@ social:
   facebook: https://www.facebook.com/luminatofestival/
   twitter: https://twitter.com/luminato
   youtube: https://www.youtube.com/user/LuminatoEvents
+owl:sameAs: http://www.wikidata.org/entity/Q3267304
 ---
