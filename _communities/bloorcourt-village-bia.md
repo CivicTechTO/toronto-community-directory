@@ -2,9 +2,9 @@
 name: Bloorcourt Village BIA
 description: "Established in 1979, Bloorcourt Village is well known for its great variety of shops and services catering to all tastes and ages, featuring retail stores, restaurants and cafes, sports bars, galleries, and a range of service-providing businesses."
 tags:
-  - type/business-improvement-area
-  - neighbourhood/bloorcourt-village
-  - borough/old-toronto
+  - instance-of/organization/business-improvement-area
+  - neighbourhood/old-toronto/bloorcourt-village
+  - neighbourhood/old-toronto
 link: http://www.bloorcourttoronto.com
 address:
   streetAddress: Bloor Street West from Montrose Avenue to Dufferin Street

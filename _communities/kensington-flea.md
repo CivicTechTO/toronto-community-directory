@@ -2,12 +2,12 @@
 name: Kensington Flea
 description: "Seasonal weekend flea market from May to October in Kensington Market, featuring vintage, antique, and craft vendors."
 tags:
-  - type/market
-  - for/shopping
-  - for/community-building
-  - type/flea-market
-  - neighbourhood/kensington-market
-  - borough/old-toronto
+  - instance-of/event/market
+  - topic/interest/shopping
+  - topic/cause/community-building
+  - instance-of/event/market/flea-market
+  - neighbourhood/old-toronto/kensington-market
+  - neighbourhood/old-toronto
 link: https://www.kensingtonflea.com
 address:
   streetAddress: 216 Augusta Ave

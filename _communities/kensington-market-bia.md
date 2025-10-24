@@ -2,9 +2,9 @@
 name: Kensington Market BIA
 description: "Year-round market district known for its diverse shops, vintage stores, food vendors, and multicultural atmosphere."
 tags:
-  - type/business-improvement-area
-  - neighbourhood/kensington-market
-  - borough/old-toronto
+  - instance-of/organization/business-improvement-area
+  - neighbourhood/old-toronto/kensington-market
+  - neighbourhood/old-toronto
 link: https://kensingtonmarket.to/
 address:
   streetAddress: Kensington Market

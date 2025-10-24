@@ -3,11 +3,11 @@ name: Kingsway Park Ratepayers Inc.
 description: "KPRI is a volunteer organization committed to preserving the amenities and the appeal of the Kingsway/Sunnylea area. On your behalf, we watch for bad city policy or residents who would improve their own personal space at your expense. The KPRI has been serving the community for over 50 years."
 source: bulk import
 tags:
-  - type/neighbourhood-association
-  - for/municipal-issues
-  - for/advocacy
-  - neighbourhood/the-kingsway
-  - borough/etobicoke
+  - instance-of/organization/neighbourhood-association
+  - topic/cause/municipal-issues
+  - topic/objective/advocacy
+  - neighbourhood/etobicoke/the-kingsway
+  - neighbourhood/etobicoke
 link: http://www.kingswayratepayers.com
 address:
   streetAddress: 184 Prince Edward Drive South

@@ -2,13 +2,13 @@
 name: Crow's Theatre
 description: Resonating with Toronto's civic, community and cultural milieu – Crow's Theatre at Streetcar Crowsnest adapts and evolves as the social, economic, cultural environment of the city adapts and evolves. Crow's Theatre is distinguished as a preeminent cultural destination for its far-reaching imagination, ideas, exchange, diversity and grassroots belief in how artists and their work can change and sustain the life of communities.
 tags:
-  - type/organization
-  - type/theatre
-  - type/venue
-  - for/theatre
-  - for/performance-art
-  - neighbourhood/leslieville
-  - borough/old-toronto
+  - instance-of/organization
+  - instance-of/place/event-venue/theatre
+  - instance-of/place/event-venue
+  - topic/art-form/theatre
+  - topic/art-form/performance-art
+  - neighbourhood/old-toronto/leslieville
+  - neighbourhood/old-toronto
 link: https://www.crowstheatre.com
 address:
   streetAddress: 345 Carlaw Avenue

@@ -5,14 +5,14 @@ description: The Rex, Toronto's longest running jazz club, is host to some of
   Canadian talent and touring groups from around the world.
 source: MCP Generative Addition
 tags:
-  - type/venue
-  - type/hotel
-  - type/music-venue
-  - for/jazz
-  - for/blues
-  - for/music
-  - neighbourhood/queen-street-west
-  - borough/old-toronto
+  - instance-of/place/event-venue
+  - instance-of/place/hotel
+  - instance-of/place/event-venue/music-venue
+  - topic/hobby/jazz
+  - topic/art-form/music/blues
+  - topic/art-form/music
+  - neighbourhood/old-toronto/queen-street-west
+  - neighbourhood/old-toronto
 link: https://www.therex.ca
 address:
   streetAddress: 194 Queen Street West

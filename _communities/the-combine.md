@@ -4,9 +4,9 @@ link: https://thecombine.io
 description: "The Combine is an ongoing experiment in transforming a conventional office into a community-driven space that blends making, shopping, learning, & living."
 source: "issue #70 by @jordyarms"
 tags:
-  - type/coworking-space
-  - neighbourhood/entertainment-district
-  - borough/old-toronto
+  - instance-of/place/coworking-space
+  - neighbourhood/old-toronto/entertainment-district
+  - neighbourhood/old-toronto
 link: https://thecombine.io
 address:
   streetAddress: 225 Wellington Street West

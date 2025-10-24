@@ -3,12 +3,12 @@ name: Reelworld Film Festival
 description: "Reelworld was founded in 2000 by award-winning actress and producer Tonya Williams to advance opportunities for Canadians who are Black, Indigenous, Asian, South Asian, and People of Colour in the screen industries by providing professional development and advocating for racial equity in Canadian content and production. Reelworld Screen Institute, a non-profit, provides training programs and presents the acclaimed Reelworld Film Festival, which celebrates stories by racialized Canadians."
 source: "MCP Generative Addition"
 tags:
-  - type/annual-event
-  - type/film-festival
-  - type/organization
-  - for/film
-  - audience/bipoc-community
-  - audience/indigenous-community
+  - cadence/annually
+  - instance-of/event/festival/film-festival
+  - instance-of/organization
+  - topic/art-form/film
+  - requires-refactoring/audience/racial-identity/bipoc
+  - requires-refactoring/culture/indigenous
 link: https://www.reelworld.ca
 address:
   streetAddress: 250 Front Street West, Suite 9C200

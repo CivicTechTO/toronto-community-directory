@@ -3,13 +3,13 @@ name: Comedy Bar
 description: Comedy Bar is dedicated to the development of new and established comedic talent, and aims to provide the best Sketch, Improv, Alternative and Stand Up Comedy in Toronto. The stages at our 2 venues host over 150 shows monthly, providing laughs 7 nights a week, approximately 363 days a year.
 source: MCP Generative Addition
 tags:
-  - type/venue
-  - type/comedy-club
-  - for/comedy
-  - for/standup
-  - for/improv
-  - neighbourhood/bloorcourt-village
-  - borough/old-toronto
+  - instance-of/place/event-venue
+  - instance-of/place/event-venue/comedy-club
+  - topic/art-form/comedy
+  - topic/art-form/comedy/standup
+  - topic/interest/improv
+  - neighbourhood/old-toronto/bloorcourt-village
+  - neighbourhood/old-toronto
 link: https://comedybar.ca/
 address:
   streetAddress: 945 Bloor Street West

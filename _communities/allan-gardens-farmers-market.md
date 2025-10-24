@@ -2,11 +2,9 @@
 name: Allan Gardens Farmers' Market
 description: "Year-round Saturday farmers' market at the historic Allan Gardens, operated by Friends of Allan Gardens."
 tags:
-  - type/market
-  - type/farmers-market
-  - for/food
-  - neighbourhood/garden-district
-  - borough/old-toronto
+  - instance-of/event/market/farmers-market
+  - topic/interest/food
+  - neighbourhood/old-toronto/garden-district
 link: https://www.friendsofallangardens.ca/saturday-farmers-market
 address:
   streetAddress: 160 Gerrard St E

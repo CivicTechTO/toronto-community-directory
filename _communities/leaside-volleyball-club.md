@@ -3,12 +3,12 @@ name: Leaside Volleyball Club
 description: "Owned and operated by beach Olympian, John Child, Leaside Volleyball is Toronto and the GTAs Premier Volleyball Club for Youth Athletes. Since 2008, Leaside Volleyball Club offers year round competitive volleyball programming to youth athletes of all ages and skill levels!"
 source: "https://www.ontariovolleyball.org/find-a-club"
 tags:
-  - type/organization
-  - type/club
-  - for/volleyball
-  - for/sports
-  - for/youth
-  - audience/youth-athletes
+  - instance-of/organization
+  - instance-of/organization/club
+  - topic/hobby/volleyball
+  - topic/interest/sports
+  - requires-refactoring/audience/lifestage/youth
+  - requires-refactoring/audience/lifestage/youth-athletes
 link: https://www.leasidevolleyball.ca
 address:
   streetAddress: 1451 Avenue Road

@@ -3,11 +3,11 @@ name: Amazing Moss Park Art Collective
 description: "Amazing Moss Park Art Collective, located & named after Moss Park in the most diverse socioeconomic area in Toronto. Our mission is to reinstate the Moss Park neighbourhood as a hub of artistic activity. Cultural Vision- to allow accessibility to all levels of artists."
 source: "MCP Generative Addition"
 tags:
-  - type/gallery
-  - type/event-space
-  - for/art
-  - neighbourhood/moss-park
-  - borough/old-toronto
+  - instance-of/place/gallery
+  - instance-of/place/event-venue
+  - instance-of/organization/collective
+  - topic/art-form/art
+  - neighbourhood/old-toronto/moss-park
 link: https://amazingmosspark.ca
 address:
   streetAddress: 183 Queen Street East

@@ -30,59 +30,136 @@ title: Home
 
 {% assign all_tags = site.communities | map: "tags" | compact | join: "," | split: "," | uniq | sort %}
 
-{% assign namespaces = '' | split: '' %}
+{% assign top_namespaces = '' | split: '' %}
 {% for tag in all_tags %}
 {% assign trimmed_tag = tag | strip %}
 {% if trimmed_tag contains '/' %}
 {% assign namespace = trimmed_tag | split: '/' | first %}
-{% unless namespaces contains namespace %}
-{% assign namespaces = namespaces | push: namespace %}
+{% unless top_namespaces contains namespace %}
+{% assign top_namespaces = top_namespaces | push: namespace %}
 {% endunless %}
 {% endif %}
 {% endfor %}
-{% assign namespaces = namespaces | sort %}
+{% assign top_namespaces = top_namespaces | sort %}
 
-<details name="filters">
+<details name="filters" open>
   <summary>Filter Controls</summary>
-  <div id="filter-bar">
-    <div>
-      <button class="filter-btn active" data-filter="all">Show All</button>
-      <button id="filter-mode-toggle" class="filter-toggle" role="button">Mode: ANY (OR)</button>
+  <div id="filter-controls">
+    <div class="filter-header">
+      <div class="filter-actions">
+        <button class="filter-btn filter-all active" data-filter="all">Show All</button>
+        <button class="filter-clear" id="clear-filters" style="display: none;">Clear Filters</button>
+      </div>
+      <button id="filter-mode-toggle" class="filter-mode-btn" role="button">
+        <span class="mode-label">Mode:</span>
+        <span class="mode-value">OR (ANY)</span>
+      </button>
     </div>
-    
-    {% for namespace in namespaces %}
-      <fieldset>
-        <legend>{{ namespace | replace: '-', ' ' | capitalize }}</legend>
-        {% for tag in all_tags %}
-          {% assign trimmed_tag = tag | strip %}
-          {% assign tag_namespace = trimmed_tag | split: '/' | first %}
-          {% if tag_namespace == namespace %}
-            {% assign tag_value = trimmed_tag | split: '/' | last %}
-            <button class="filter-btn" data-filter="{{ trimmed_tag }}">{{ tag_value | replace: '-', ' ' }}</button>
-          {% endif %}
-        {% endfor %}
-      </fieldset>
-    {% endfor %}
 
-    {% assign unnamespaced_tags = '' | split: '' %}
-    {% for tag in all_tags %}
-      {% assign trimmed_tag = tag | strip %}
-      {% unless trimmed_tag contains '/' %}
-        {% assign unnamespaced_tags = unnamespaced_tags | push: trimmed_tag %}
-      {% endunless %}
-    {% endfor %}
+    <div class="active-filters" id="active-filters" style="display: none;">
+      <span class="active-filters-label">Active filters:</span>
+      <div class="active-filters-list"></div>
+    </div>
 
-    {% if unnamespaced_tags.size > 0 %}
-      <fieldset>
-        <legend>Other</legend>
-        {% for tag in unnamespaced_tags %}
-          <button class="filter-btn" data-filter="{{ tag }}">{{ tag | replace: '-', ' ' }}</button>
-        {% endfor %}
-      </fieldset>
-    {% endif %}
+    <div class="filter-categories">
+      {% for namespace in top_namespaces %}
+        <details class="filter-category" data-namespace="{{ namespace }}">
+          <summary class="category-header">
+            <span class="category-icon">▸</span>
+            <span class="category-name">{{ namespace | replace: '-', ' ' | capitalize }}</span>
+            <span class="category-count"></span>
+          </summary>
+          <div class="filter-tree">
+            {% assign namespace_tags = '' | split: '' %}
+            {% for tag in all_tags %}
+              {% assign trimmed_tag = tag | strip %}
+              {% assign tag_namespace = trimmed_tag | split: '/' | first %}
+              {% if tag_namespace == namespace %}
+                {% assign namespace_tags = namespace_tags | push: trimmed_tag %}
+              {% endif %}
+            {% endfor %}
+
+            {% assign all_paths = '' | split: '' %}
+            {% for tag in namespace_tags %}
+              {% assign parts = tag | split: '/' %}
+              {% assign cumulative_path = namespace %}
+
+              {% for i in (1..10) %}
+                {% if i < parts.size %}
+                  {% assign part = parts[i] %}
+                  {% assign cumulative_path = cumulative_path | append: '/' | append: part %}
+                  {% unless all_paths contains cumulative_path %}
+                    {% assign all_paths = all_paths | push: cumulative_path %}
+                  {% endunless %}
+                {% endif %}
+              {% endfor %}
+            {% endfor %}
+            {% assign all_paths = all_paths | sort %}
+
+            {% assign current_depth = -1 %}
+            {% for path in all_paths %}
+              {% assign parts = path | split: '/' %}
+              {% assign depth = parts.size | minus: 1 %}
+              {% assign label = parts | last %}
+
+              {% if depth != current_depth %}
+                {% if current_depth >= 0 %}
+                  </div>
+                {% endif %}
+                <div class="tree-group" data-depth="{{ depth }}">
+              {% endif %}
+              {% assign current_depth = depth %}
+
+              <button class="filter-btn tree-node"
+                      data-filter="{{ path }}"
+                      data-filter-prefix="{{ path }}/"
+                      data-namespace="{{ namespace }}"
+                      data-depth="{{ depth }}"
+                      title="{{ path }}">
+                <span class="tag-label">{{ label | replace: '-', ' ' }}</span>
+              </button>
+            {% endfor %}
+            {% if current_depth >= 0 %}
+              </div>
+            {% endif %}
+          </div>
+        </details>
+      {% endfor %}
+
+      {% assign unnamespaced_tags = '' | split: '' %}
+      {% for tag in all_tags %}
+        {% assign trimmed_tag = tag | strip %}
+        {% unless trimmed_tag contains '/' %}
+          {% assign unnamespaced_tags = unnamespaced_tags | push: trimmed_tag %}
+        {% endunless %}
+      {% endfor %}
+
+      {% if unnamespaced_tags.size > 0 %}
+        <details class="filter-category" data-namespace="other">
+          <summary class="category-header">
+            <span class="category-icon">▸</span>
+            <span class="category-name">Other Tags</span>
+            <span class="category-count"></span>
+          </summary>
+          <div class="filter-tree">
+            <div class="tree-group" data-depth="0">
+              {% for tag in unnamespaced_tags %}
+                <button class="filter-btn tree-node" data-filter="{{ tag }}" data-depth="0" title="{{ tag }}">
+                  <span class="tag-label">{{ tag | replace: '-', ' ' }}</span>
+                </button>
+              {% endfor %}
+            </div>
+          </div>
+        </details>
+      {% endif %}
+    </div>
 
   </div>
 </details>
+
+<div class="results-summary">
+  <span id="results-count"></span>
+</div>
 
 <div class="grid-upgrade">
   {% assign sorted = site.communities | sort: "name" %}

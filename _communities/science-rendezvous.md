@@ -3,10 +3,10 @@ name: Science Rendezvous
 description: "Science Rendezvous is a registered charitable organization dedicated to creating unique learning experiences and bringing the joy of science to everyone. Science Rendezvous is an annual festival that takes science out of the lab and onto the street!"
 source: admin
 tags:
-  - type/annual-event
-  - for/science
-  - for/learning
-  - audience/families
+  - cadence/annually
+  - instance-of/event/festival
+  - topic/interest/science
+  - requires-refactoring/audience/social-identity/families
 link: https://www.sciencerendezvous.ca
 address:
   streetAddress: 100 St. George Street

@@ -2,13 +2,13 @@
 name: FIGMENT Toronto
 description: "A free, inclusive, participatory arts event held annually that transforms Toronto's Olympic Island into a large-scale collaborative artwork. FIGMENT's mission is to offer free, family-friendly and participatory art to entire communities, removing the barriers of museum and gallery walls and entrance fees, blurring the lines between those who create and those who enjoy art. The event is entirely organized and run by volunteers."
 tags:
-  - type/festival
-  - type/event
-  - for/art
-  - for/performance
-  - for/participation
-  - audience/artists
-  - audience/volunteers
+  - instance-of/event/festival
+  - instance-of/event
+  - topic/art-form/art
+  - topic/art-form/performance
+  - topic/interest/participation
+  - requires-refactoring/audience/occupation/artist
+  - requires-refactoring/audience/occupation/volunteer
 link: https://toronto.figmentproject.org
 social:
   instagram: https://www.instagram.com/figmenttoronto/

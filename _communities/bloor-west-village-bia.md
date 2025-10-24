@@ -4,10 +4,10 @@ description: Toronto's first Business Improvement Area, established in 1970.
   Supporting over 400 local businesses along Bloor Street West with shops,
   bakeries, restaurants, and specialty stores
 tags:
-  - type/organization
-  - type/business-improvement-area
-  - neighbourhood/bloor-west-village
-  - borough/old-toronto
+  - instance-of/organization
+  - instance-of/organization/business-improvement-area
+  - neighbourhood/old-toronto/bloor-west-village
+  - neighbourhood/old-toronto
 link: https://www.bloorwestvillagebia.com
 address:
   streetAddress: Bloor Street West

@@ -2,12 +2,11 @@
 name: ABC Residents Association
 description: The ABC Residents Association is a volunteer organization committed to enhancing the quality of life in our neighbourhood through active participation in municipal issues. Originally established in 1957, we serve the residents, including condo and apartment residents, living in Toronto's Yorkville/North Midtown community between Yonge Street, west to Avenue Road, and Bloor Street north to the CPR tracks.
 tags:
-  - type/neighbourhood-association
-  - for/municipal-issues
-  - for/advocacy
-  - for/volunteering
-  - neighbourhood/yorkville
-  - borough/old-toronto
+  - instance-of/organization/neighbourhood-association
+  - topic/cause/municipal-issues
+  - topic/objective/advocacy
+  - requires-refactoring/audience/occupation/volunteer
+  - neighbourhood/old-toronto/yorkville
 link: http://www.abcra.ca
 address:
   streetAddress: 87 Avenue Road

@@ -2,14 +2,14 @@
 name: Canadian Film Fest
 description: For almost two decades, Canadian Film Fest has fostered the indie filmmaking community of The North. With an unrelenting dedication to Canadian voices, the festival exclusively showcases work from Canada's filmmakers - homegrown established talent and newcomers alike. The festival includes industry events with learning and networking opportunities, celebrating Canadian film annually.
 tags:
-  - type/festival
-  - type/film-festival
-  - for/film
-  - for/canadian-culture
-  - for/networking
-  - audience/filmmakers
-  - neighbourhood/entertainment-district
-  - borough/old-toronto
+  - instance-of/event/festival
+  - instance-of/event/festival/film-festival
+  - topic/art-form/film
+  - requires-refactoring/culture/canadian
+  - topic/objective/networking
+  - requires-refactoring/audience/occupation/filmmaker
+  - neighbourhood/old-toronto/entertainment-district
+  - neighbourhood/old-toronto
 link: https://www.canfilmfest.ca
 address:
   streetAddress: Scotiabank Theatre Toronto, 259 Richmond Street West

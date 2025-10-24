@@ -3,13 +3,12 @@ name: A Different Booklist
 description: A Canadian, independent, multicultural bookstore specializing in books from the African Caribbean Diaspora and the Global South.
 source: MCP Generative Addition
 tags:
-  - type/venue
-  - type/shop
-  - for/reading
-  - audience/bipoc-community
-  - borough/old-toronto
-  - neighbourhood/the-annex
-  - neighbourhood/harbord-village
+  - instance-of/place/event-venue
+  - instance-of/place/store
+  - topic/interest/reading
+  - requires-refactoring/audience/racial-identity/bipoc
+  - neighbourhood/old-toronto/the-annex
+  - neighbourhood/old-toronto/harbord-village
 link: https://www.adifferentbooklist.com
 address:
   streetAddress: 779 Bathurst Street

@@ -2,12 +2,12 @@
 name: Broadbent Institute
 description: The Broadbent Institute is Canada's preeminent social democratic think-tank. Founded in 2011 by Ed Broadbent, and guided by the Broadbent Principles for Canadian Social Democracy, the Institute produces original research, convenes progressive dialogues and trains leaders to equip social movements working to advance justice and equality.
 tags:
-  - type/organization
-  - type/think-tank
-  - for/policy
-  - for/public-affairs
-  - for/lectures
-  - audience/wonks
+  - instance-of/organization
+  - instance-of/organization/think-tank
+  - topic/interest/policy
+  - topic/interest/public-affairs
+  - topic/interest/lectures
+  - requires-refactoring/subculture/policy-wonks
 link: https://broadbentinstitute.ca
 address:
   streetAddress: 220 Laurier Avenue West, Suite 510

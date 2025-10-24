@@ -3,10 +3,10 @@ name: Fall For Dance North
 description: "FFDN is Toronto's premier professional international dance festival that exists to break boundaries and remove barriers. With pluralism and affordability at its core, FFDN celebrates, nurtures and amplifies established and emerging Canadian dance artists, creates global connections, and inspires future audiences to sustain the artform."
 source: "MCP Generative Addition"
 tags:
-  - type/annual-event
-  - type/festival
-  - for/dance
-  - for/performance-art
+  - cadence/annually
+  - instance-of/event/festival
+  - topic/art-form/dance
+  - topic/art-form/performance-art
 link: https://www.ffdnorth.com
 address:
   streetAddress: 5-112 Elizabeth Street, #324

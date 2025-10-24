@@ -2,13 +2,12 @@
 name: Music Gallery
 description: "Toronto's Centre for Creative Music. Established in 1976 by members of the Canadian Creative Music Collective (CCMC), the Music Gallery cultivates artistic experimentation and community through sound, music and sharing in the creative process. The Music Gallery develops, presents and promotes contemporary music in all genres, fostering innovation and experimentation in music for nearly 50 years."
 tags:
-  - type/organization
-  - type/venue
-  - for/music
-  - for/experimental-music
-  - for/concerts
-  - neighbourhood/the-annex
-  - borough/old-toronto
+  - instance-of/organization
+  - instance-of/place/event-venue
+  - topic/art-form/music
+  - topic/art-form/music/experimental
+  - neighbourhood/old-toronto/the-annex
+  - neighbourhood/old-toronto
 link: https://musicgallery.org
 address:
   streetAddress: 918 Bathurst Street

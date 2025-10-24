@@ -3,12 +3,12 @@ name: Loohoo
 description: "Cute stuff for your cute life ✨"
 source: "issue #72 by @jordyarms"
 tags:
-  - type/venue
-  - type/shop
-  - for/shopping
-  - for/art
-  - for/workshops
-  - audience/creatives
+  - instance-of/place/event-venue
+  - instance-of/place/store
+  - topic/interest/shopping
+  - topic/art-form/art
+  - topic/interest/workshops
+  - requires-refactoring/audience/occupation/creative
 link: https://loohoo.square.site/
 address:
   streetAddress: 1380 Queen Street West

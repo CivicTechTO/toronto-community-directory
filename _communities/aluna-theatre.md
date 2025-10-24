@@ -2,12 +2,10 @@
 name: Aluna Theatre
 description: "Aluna Theatre connects the Americas through the arts."
 tags:
-  - type/organization
-  - type/venue
-  - for/theatre
-  - for/performance-art
-  - neighbourhood/the-junction
-  - borough/old-toronto
+  - instance-of/place/event-venue/theatre
+  - topic/art-form/theatre
+  - topic/art-form/performance-art
+  - neighbourhood/old-toronto/the-junction
 link: https://www.alunatheatre.ca
 address:
   streetAddress: 1 Wiltshire Avenue, Unit 124

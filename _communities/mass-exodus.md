@@ -1,13 +1,16 @@
 ---
 name: Mass Exodus
-description: "Mass Exodus is Toronto Metropolitan University's (formerly Ryerson) School of Fashion's annual year-end showcase, known as one of the largest student-run fashion events in the world. Produced by third-year fashion communication students, the event features runway shows and exhibitions showcasing the final collections and capstone projects of graduating Fashion Design and Fashion Communication students."
+description: "Mass Exodus is Toronto Metropolitan University's annual fashion showcase featuring graduating students from the School of Fashion. The event includes runway shows and exhibitions displaying final capstone projects from fourth-year design and communication students. Produced by students in The Creative School as part of the Live Event Supercourse, Mass Exodus has been a celebrated fashion event for over 30 years, committed to sustainability, social justice, and inclusive design."
 tags:
-  - type/event
-  - type/fashion-show
-  - type/grad-show
-  - for/fashion
+  - instance-of/event
+  - instance-of/event/exhibition/fashion-show
+  - instance-of/event/exhibition/grad-show
+  - topic/art-form/fashion
+  - topic/interest/design
+  - requires-refactoring/audience/occupation/student
+  - requires-refactoring/audience/occupation/fashion
 link: https://massexodus.ca
 social:
-  instagram: https://www.instagram.com/massexodus_ru/
+  instagram: https://www.instagram.com/massexodus_tmu/
   facebook: https://www.facebook.com/ryersonmassex/
 ---

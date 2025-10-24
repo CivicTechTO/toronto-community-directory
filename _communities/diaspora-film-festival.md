@@ -3,9 +3,9 @@ name: Diaspora Film Festival
 description: Diaspora Film Festival (DFF) provides Toronto audiences with an opportunity to experience the cultural mosaic of the present world through the medium of cinema. The DFF explores themes of migration, immigration, and cultural diversity by showcasing works of both established and emerging filmmakers. The festival pays special attention to independent Canadian filmmakers from ethnic minorities. The DFF is a charitable not-for-profit organization founded in 2000 to foster understanding and discussion among different cultures.
 source: MCP Generative Addition
 tags:
-  - type/annual-event
-  - type/film-festival
-  - for/film
+  - cadence/annually
+  - instance-of/event/festival/film-festival
+  - topic/art-form/film
 link: https://diasporafilmfest.com
 address:
   streetAddress: 2 Sussex Avenue

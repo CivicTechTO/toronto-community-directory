@@ -3,10 +3,10 @@ name: unearthD
 description: "Our mission at unearthD is to create a space for people to find a common connection with the environment and with each other—by unearthing our roots. We want to foster a community where people feel engaged and comfortable talking about climate action."
 source: "gnntoronto"
 tags:
-  - type/organization
-  - for/environmentalism
-  - for/gardening
-  - audience/youth
+  - instance-of/organization
+  - topic/cause/environmentalism
+  - topic/hobby/gardening
+  - requires-refactoring/audience/lifestage/youth
 link: https://unearthd.org
 address:
   streetAddress: 120 Kirkham Drive

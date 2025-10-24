@@ -3,13 +3,13 @@ name: VideoCabaret - Deanne Taylor Theatre
 description: "VideoCabaret is one of Canada's most inventive, prolific and celebrated theatre ensembles. The company's founding playwrights Michael Hollingsworth and Deanne Taylor have created many enduring plays, and with renowned designers and actors have devised spectacularly original styles of performance — black-box epics, multi-media cabarets, musicals, opera, and masquerades."
 source: "MCP Generative Addition"
 tags:
-  - type/venue
-  - type/theatre
-  - for/theatre
-  - for/performance-art
-  - audience/performers
-  - neighbourhood/leslieville
-  - borough/old-toronto
+  - instance-of/place/event-venue
+  - instance-of/place/event-venue/theatre
+  - topic/art-form/theatre
+  - topic/art-form/performance-art
+  - requires-refactoring/audience/occupation/performer
+  - neighbourhood/old-toronto/leslieville
+  - neighbourhood/old-toronto
 link: https://videocab.com
 address:
   streetAddress: 10 Busy Street

@@ -2,11 +2,11 @@
 name: Ontario Artisan Market
 description: "Seasonal Sunday artisan market from May to October at Evergreen Brick Works, showcasing local artisans and craftspeople."
 tags:
-  - type/market
-  - for/shopping
-  - type/craft-market
-  - neighbourhood/don-river
-  - borough/old-toronto
+  - instance-of/event/market
+  - topic/interest/shopping
+  - instance-of/event/market/craft-market
+  - neighbourhood/east-york/don-river
+  - neighbourhood/old-toronto
 link: https://www.evergreen.ca
 address:
   streetAddress: 550 Bayview Ave

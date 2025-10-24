@@ -2,9 +2,9 @@
 name: Cabbagetown BIA
 description: "Nestled between Wellesley St and Shuter St, and bound by Sherbourne St on the West and the Don River on the East, Cabbagetown embodies a unique blend of historic charm and modern vibrancy. Renowned for its picturesque streets adorned with the largest area of preserved Victorian homes in North America, this community exudes an inviting ambiance that beckons exploration."
 tags:
-  - type/business-improvement-area
-  - neighbourhood/cabbagetown
-  - borough/old-toronto
+  - instance-of/organization/business-improvement-area
+  - neighbourhood/old-toronto/cabbagetown
+  - neighbourhood/old-toronto
 link: https://www.cabbagetownto.com
 address:
   streetAddress: Parliament Street from south of Gerrard Street East to Wellesley Street East

@@ -2,9 +2,9 @@
 name: Bloor-Yorkville BIA
 description: "A celebration of the very best fashion, food, wellness and culture. Explore luxury shops, unique restaurants, world-class art galleries, and the best salons & spas Toronto has to offer."
 tags:
-  - type/business-improvement-area
-  - neighbourhood/yorkville
-  - borough/old-toronto
+  - instance-of/organization/business-improvement-area
+  - neighbourhood/old-toronto/yorkville
+  - neighbourhood/old-toronto
 link: https://www.bloor-yorkville.com
 address:
   streetAddress: 77 Bloor Street West

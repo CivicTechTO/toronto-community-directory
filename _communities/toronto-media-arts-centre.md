@@ -3,15 +3,15 @@ name: Toronto Media Arts Centre
 description: "A new permanent home for Toronto's media arts organizations, and an accessible public space for art, creation and collaboration in the Queen West Triangle."
 source: "MCP Generative Addition"
 tags:
-  - type/venue
-  - type/gallery
-  - type/organization
-  - for/media-arts
-  - for/technology
-  - for/art
-  - for/film
-  - for/video
-  - for/games
+  - instance-of/place/event-venue
+  - instance-of/place/gallery
+  - instance-of/organization
+  - topic/art-form/media-arts
+  - topic/interest/technology
+  - topic/art-form/art
+  - topic/art-form/film
+  - topic/interest/video
+  - topic/interest/games
 link: https://www.tomediaarts.org
 address:
   streetAddress: 32 Lisgar Street

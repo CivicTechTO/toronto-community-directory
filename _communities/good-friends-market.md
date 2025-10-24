@@ -2,11 +2,11 @@
 name: Good Friends Market
 description: "Pop-up market on Ossington Avenue featuring local vendors, artists, and food."
 tags:
-  - type/pop-up-market
-  - type/market
-  - neighbourhood/little-portugal
-  - borough/old-toronto
-  - for/shopping
+  - instance-of/event/market/pop-up-market
+  - instance-of/event/market
+  - neighbourhood/old-toronto/little-portugal
+  - neighbourhood/old-toronto
+  - topic/interest/shopping
 link: https://www.goodfriendsmarket.com/
 address:
   streetAddress: 100 Ossington Ave

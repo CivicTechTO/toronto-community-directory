@@ -5,13 +5,13 @@ description: UKAI Projects is a federally incorporated non-profit cultural
   for what's coming'.
 source: "issue #46 by @jordyarms"
 tags:
-  - type/organization
-  - for/creativity
-  - for/art
-  - for/technology
-  - audience/artists
-  - neighbourhood/fashion-district
-  - borough/old-toronto
+  - instance-of/organization
+  - topic/interest/creativity
+  - topic/art-form/art
+  - topic/interest/technology
+  - requires-refactoring/audience/occupation/artist
+  - neighbourhood/old-toronto/fashion-district
+  - neighbourhood/old-toronto
 link: https://ukaiprojects.com
 address:
   streetAddress: 379 Adelaide Street West

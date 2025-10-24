@@ -12,13 +12,13 @@ description: DROM Taberna is a heartfelt homage to places that we came from,
   immigrant souls eating, drinking and playing music together.
 source: MCP Generative Addition
 tags:
-  - type/venue
-  - type/restaurant
-  - for/music
-  - for/food
-  - for/eastern-european-culture
-  - neighbourhood/queen-street-west
-  - borough/old-toronto
+  - instance-of/place/event-venue
+  - instance-of/place/restaurant
+  - topic/art-form/music
+  - topic/interest/food
+  - requires-refactoring/culture/eastern-european
+  - neighbourhood/old-toronto/queen-street-west
+  - neighbourhood/old-toronto
 link: https://www.dromtaberna.com
 address:
   streetAddress: 458 Queen Street West

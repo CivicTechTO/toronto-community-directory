@@ -3,10 +3,10 @@ name: IFFSA Toronto
 description: "IFFSA Toronto is the largest South Asian film festival in North America, and a pioneer organization advancing the development, promotion and celebration of South Asian screen arts in Canada."
 source: "MCP Generative Addition"
 tags:
-  - type/annual-event
-  - type/film-festival
-  - for/film
-  - audience/south-asian-community
+  - cadence/annually
+  - instance-of/event/festival/film-festival
+  - topic/art-form/film
+  - requires-refactoring/culture/south-asian
 link: https://iffsatoronto.com
 address:
   streetAddress: 7900 Hurontario Street, Suite 303

@@ -2,10 +2,10 @@
 name: Merchant's Flea Market
 description: "Year-round weekend flea market in East York, open Saturdays and Sundays."
 tags:
-  - type/market
-  - for/shopping
-  - type/flea-market
-  - borough/east-york
+  - instance-of/event/market
+  - topic/interest/shopping
+  - instance-of/event/market/flea-market
+  - neighbourhood/east-york
 link: https://www.merchantsfleamarket.com/
 address:
   streetAddress: 1921 Eglinton Ave E

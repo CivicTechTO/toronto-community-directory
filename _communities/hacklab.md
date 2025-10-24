@@ -2,12 +2,12 @@
 name: Hacklab
 description: "HackLab.TO is a community space with a diverse membership, including artists, computer programmers, web designers, and hardware hackers. It is inspired by the philosophies of the global hackerspaces movement which encourages people to socialize, share knowledge, and work together on their projects. Newcomers are welcome every Tuesday night."
 tags:
-  - type/maker-space
-  - for/technology
-  - for/electronics
-  - for/diy
-  - neighbourhood/carleton-village
-  - borough/old-toronto
+  - instance-of/place/maker-space
+  - topic/interest/technology
+  - topic/interest/electronics
+  - topic/interest/diy
+  - neighbourhood/old-toronto/carleton-village
+  - neighbourhood/old-toronto
 link: https://hacklab.to
 address:
   streetAddress: 1677 St Clair Avenue West

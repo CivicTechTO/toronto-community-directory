@@ -3,12 +3,12 @@ name: Buffer Festival
 description: Buffer Festival is an international digital video festival, held annually in Toronto, Ontario.
 source: MCP Generative Addition
 tags:
-  - type/annual-event
-  - type/film-festival
-  - for/digital-video
-  - for/film
-  - for/clout
-  - audience/content-creators
+  - cadence/annually
+  - instance-of/event/festival/film-festival
+  - topic/art-form/film/digital-video
+  - topic/art-form/film
+  - topic/interest/clout
+  - requires-refactoring/audience/occupation/content-creator
 link: https://bufferfestival.com
 address:
   streetAddress: 1006c Bloor Street West

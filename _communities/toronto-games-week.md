@@ -3,12 +3,12 @@ name: Toronto Games Week
 description: "Toronto Games Week is a collective coordination of events organized independently by dozens of organizations, curators, companies, creators, and communities."
 source: "issue #34 by @jordyarms"
 tags:
-  - type/annual-event
-  - type/event-week
-  - for/play
-  - for/gaming
-  - for/technology
-  - audience/gamers
+  - cadence/annually
+  - instance-of/event/event-week
+  - topic/interest/play
+  - topic/interest/gaming
+  - topic/interest/technology
+  - requires-refactoring/audience/occupation/gamer
 link: https://torontogamesweek.com
 social:
   instagram: https://www.instagram.com/torontogamesweek/

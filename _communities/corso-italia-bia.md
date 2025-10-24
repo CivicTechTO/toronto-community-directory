@@ -2,9 +2,9 @@
 name: Corso Italia BIA
 description: "Corso Italia is located on St. Clair Avenue West between Westmount Ave and Lansdowne Ave. Its rich history and diverse mix of unique shops, restaurants, cafes and services make it an ideal place to shop and to live. The story of Corso Italia is a story of authenticity, diversity and new beginnings."
 tags:
-  - type/business-improvement-area
-  - neighbourhood/corso-italia
-  - borough/old-toronto
+  - instance-of/organization/business-improvement-area
+  - neighbourhood/old-toronto/corso-italia
+  - neighbourhood/old-toronto
 link: https://www.torontocorsoitalia.com
 address:
   streetAddress: St. Clair Avenue West between Westmount Avenue and Lansdowne Avenue

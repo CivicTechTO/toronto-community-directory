@@ -10,11 +10,11 @@ description: "When we started Danu in July 2022, we imagined a place where you
   Toronto and The People's Voice to hold meetings and fundraisers."
 source: https://torontoeventgenerator.substack.com/about
 tags:
-  - type/event-space
-  - type/venue
-  - for/drinking
-  - neighbourhood/parkdale
-  - borough/old-toronto
+  - instance-of/place/event-venue
+  - instance-of/place/event-venue
+  - topic/interest/drinking
+  - neighbourhood/old-toronto/parkdale
+  - neighbourhood/old-toronto
 link: https://www.danusocialhouse.ca
 address:
   streetAddress: 1237 Queen Street West

@@ -3,12 +3,12 @@ name: Tech Pizza Mondays
 description: FREE AND OPEN TECHNOLOGY FOR A FREE AND OPEN SOCIETY
 source: https://lightmorning.substack.com/p/weave-report-summer-2025-edition
 tags:
-  - type/event-series
-  - for/technology
-  - for/food
-  - audience/technologists
-  - neighbourhood/the-annex
-  - borough/old-toronto
+  - instance-of/event/event-series
+  - topic/interest/technology
+  - topic/interest/food
+  - requires-refactoring/audience/occupation/technologist
+  - neighbourhood/old-toronto/the-annex
+  - neighbourhood/old-toronto
 link: https://mondays.pizza/
 address:
   streetAddress: 440 Bloor Street West

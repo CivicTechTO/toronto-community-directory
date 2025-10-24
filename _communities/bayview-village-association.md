@@ -3,11 +3,11 @@ name: Bayview Village Association
 description: "The Bayview Village Association is a community organization located in North York, Ontario, focusing on enhancing neighborhood engagement and safety. It offers various events, activities, and resources for residents, including municipal government affairs updates and community safety information."
 source: bulk import
 tags:
-  - type/neighbourhood-association
-  - for/municipal-issues
-  - for/advocacy
-  - neighbourhood/baview-village
-  - borough/north-york
+  - instance-of/organization/neighbourhood-association
+  - topic/cause/municipal-issues
+  - topic/objective/advocacy
+  - neighbourhood/north-york/bayview-village
+  - neighbourhood/north-york
 link: http://www.bayviewvillage.org
 address:
   streetAddress: 2901 Bayview Avenue, P.O. Box 91065

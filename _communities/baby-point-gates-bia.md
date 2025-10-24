@@ -4,10 +4,10 @@ description: Business Improvement Area representing shops, restaurants and
   businesses in and around Jane and Annette Streets, just north of Bloor West
   Village
 tags:
-  - type/organization
-  - type/business-improvement-area
-  - neighbourhood/baby-point
-  - borough/york
+  - instance-of/organization
+  - instance-of/organization/business-improvement-area
+  - neighbourhood/york/baby-point
+  - neighbourhood/york
 link: http://www.babypointgates.ca
 address:
   streetAddress: Jane and Annette Streets

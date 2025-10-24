@@ -3,13 +3,13 @@ name: Ground Control
 description: "A new music venue and video dance bar experience inspired by David Bowie. 1279 Queen St West - Toronto."
 source: "issue #68 by @jordyarms"
 tags:
-  - type/venue
-  - audience/goths
-  - for/music
-  - for/dancing
-  - for/karaoke
-  - neighbourhood/queen-street-west
-  - borough/old-toronto
+  - instance-of/place/event-venue
+  - requires-refactoring/subculture/goth
+  - topic/art-form/music
+  - topic/hobby/dancing
+  - topic/hobby/kareoke
+  - neighbourhood/old-toronto/queen-street-west
+  - neighbourhood/old-toronto
 link: https://www.instagram.com/groundcontroltoronto
 address:
   streetAddress: 1279 Queen Street West

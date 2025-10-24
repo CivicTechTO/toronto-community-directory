@@ -10,13 +10,12 @@ description:
   music industry.
 source: "MCP Generative Addition"
 tags:
-  - type/organization
-  - type/venue
-  - type/event-series
-  - type/festival
-  - for/music
-  - for/world-music
-  - for/concerts
+  - instance-of/organization
+  - instance-of/place/event-venue
+  - instance-of/event/event-series
+  - instance-of/event/festival
+  - topic/art-form/music
+  - topic/art-form/music/world
 link: https://smallworldmusic.com
 address:
   streetAddress: 180 Shaw Street, Unit 101

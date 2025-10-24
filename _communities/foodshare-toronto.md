@@ -3,10 +3,9 @@ name: FoodShare Toronto
 description: "FoodShare Toronto advocates for the right to food and challenges the barriers to achieving food justice."
 source: "issue #78 by @jordyarms"
 tags:
-  - type/organization
-  - for/food
-  - for/education
-  - for/advocacy
+  - instance-of/organization
+  - topic/interest/food
+  - topic/objective/advocacy
 link: https://foodshare.net
 address:
   streetAddress: 120 Industry Street, Unit C

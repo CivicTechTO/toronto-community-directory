@@ -3,11 +3,11 @@ name: Sports Leagues Canada
 description: "Sports Leagues Canada is a company based out of Toronto that offers various adult leagues mainly consisting of soccer & softball."
 source: "MCP Generative Addition"
 tags:
-  - type/organization
-  - type/sports-league
-  - for/sports
-  - for/soccer
-  - for/softball
+  - instance-of/organization
+  - instance-of/organization/sports-league
+  - topic/interest/sports
+  - topic/hobby/soccer
+  - topic/hobby/softball
 link: https://www.sportsleaguescanada.com
 address:
   streetAddress: 75 Carl Hall Road

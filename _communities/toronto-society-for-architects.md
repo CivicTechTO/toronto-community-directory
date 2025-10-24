@@ -6,13 +6,13 @@ description: Established in 1887, the Toronto Society of Architects (TSA) is a n
   and explore around our shared passion for the built environment.
 source: 'issue #101 by @nafeesaDPS'
 tags:
-  - type/organization
-  - for/architecture
-  - for/design
-  - for/advocacy
-  - for/walking
-  - for/walking-tours
-  - audience/architects
+  - instance-of/organization
+  - topic/interest/architecture
+  - topic/interest/design
+  - topic/objective/advocacy
+  - topic/hobby/walking
+  - topic/hobby/walking-tours
+  - requires-refactoring/audience/occupation/architects
 link: https://torontosocietyofarchitects.ca
 address:
   streetAddress: 720 Bathurst Street

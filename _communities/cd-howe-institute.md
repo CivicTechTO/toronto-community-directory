@@ -2,14 +2,14 @@
 name: C.D. Howe Institute
 description: Widely considered to be Canada's most influential think tank, the C.D. Howe Institute is a source of trusted policy intelligence, distinguished by research that is nonpartisan, evidence-based and subject to definitive expert review. The Institute's mission is to raise Canadians' living standards by fostering economically sound public policies.
 tags:
-  - type/organization
-  - type/think-tank
-  - for/policy
-  - for/public-affairs
-  - for/lectures
-  - audience/wonks
-  - neighbourhood/financial-district
-  - borough/old-toronto
+  - instance-of/organization
+  - instance-of/organization/think-tank
+  - topic/interest/policy
+  - topic/interest/public-affairs
+  - topic/interest/lectures
+  - requires-refactoring/subculture/policy-wonks
+  - neighbourhood/old-toronto/financial-district
+  - neighbourhood/old-toronto
 link: https://cdhowe.org
 address:
   streetAddress: 67 Yonge Street, Suite 300

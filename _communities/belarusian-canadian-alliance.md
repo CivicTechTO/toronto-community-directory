@@ -2,12 +2,12 @@
 name: Belarusian Canadian Alliance
 description: Representing Belarusian Canadians since 1948, the Belarusian Canadian Alliance is a community organization that represents the Belarusian-Canadian community to the people and government of Canada. The Alliance holds cultural events, maintains contact with local organizations and politicians, supports the Belarusian diaspora in Canada, and promotes democratic changes in Belarus.
 tags:
-  - type/organization
-  - type/community-organization
-  - for/advocacy
-  - audience/belarusian-community
-  - neighbourhood/dovercourt-park
-  - borough/old-toronto
+  - instance-of/organization
+  - instance-of/organization/community
+  - topic/objective/advocacy
+  - requires-refactoring/culture/belarusian
+  - neighbourhood/old-toronto/dovercourt-park
+  - neighbourhood/old-toronto
 link: https://belarusians.ca
 address:
   streetAddress: 524 St. Clarens Avenue

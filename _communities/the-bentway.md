@@ -2,13 +2,11 @@
 name: The Bentway
 description: "The Bentway is a unique public space that transforms 1.75 km underneath Toronto's Gardiner Expressway into a new gathering place. This innovative public space features a multi-use trail, seasonal skating rink, gardens, public art installations, performance spaces, and hosts year-round cultural programming including exhibitions, festivals, theatre, and musical performances."
 tags:
-  - type/organization
-  - type/public-space
-  - type/venue
-  - for/events
-  - for/recreation
-  - neighbourhood/fort-york
-  - borough/old-toronto
+  - instance-of/organization
+  - instance-of/place/public-space
+  - instance-of/place/event-venue
+  - neighbourhood/old-toronto/fort-york
+  - neighbourhood/old-toronto
 link: https://thebentway.ca
 address:
   streetAddress: 250 Fort York Boulevard

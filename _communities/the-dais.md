@@ -3,13 +3,13 @@ name: The Dais
 description: "The Dais is a public policy and leadership think tank at Toronto Metropolitan University, working at the intersection of technology, education and democracy to build shared prosperity and citizenship for Canada."
 source: "issue #80 by @jordyarms"
 tags:
-  - type/organization
-  - type/think-tank
-  - for/policy
-  - for/leadership
-  - for/technology
-  - for/advocacy
-  - audience/wonks
+  - instance-of/organization
+  - instance-of/organization/think-tank
+  - topic/interest/policy
+  - topic/interest/leadership
+  - topic/interest/technology
+  - topic/objective/advocacy
+  - requires-refactoring/subculture/policy-wonks
 link: https://dais.ca
 address:
   streetAddress: 350 Victoria Street

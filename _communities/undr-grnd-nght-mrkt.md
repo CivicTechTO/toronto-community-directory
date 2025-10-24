@@ -2,12 +2,12 @@
 name: UNDR GRND NGHT MRKT
 description: "Seasonal weekly night market from May to July at Harbourfront Centre, featuring food, music, and vendors."
 tags:
-  - type/market
-  - for/food
-  - for/shopping
-  - type/night-market
-  - neighbourhood/harbourfront
-  - borough/old-toronto
+  - instance-of/event/market
+  - topic/interest/food
+  - topic/interest/shopping
+  - instance-of/event/market/night-market
+  - neighbourhood/old-toronto/harbourfront
+  - neighbourhood/old-toronto
 link: https://harbourfrontcentre.com/
 address:
   streetAddress: 235 Queens Quay West

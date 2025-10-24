@@ -2,11 +2,11 @@
 name: Melanin Market
 description: "Seasonal market from June to August at Sankofa Square, featuring Black-owned businesses and vendors."
 tags:
-  - type/market
-  - for/shopping
-  - audience/black-community
-  - neighbourhood/garden-district
-  - borough/old-toronto
+  - instance-of/event/market
+  - topic/interest/shopping
+  - requires-refactoring/audience/racial-identity/black
+  - neighbourhood/old-toronto/garden-district
+  - neighbourhood/old-toronto
 link: https://www.melaninmarket.ca/
 address:
   streetAddress: Sankofa Square

@@ -2,12 +2,12 @@
 name: The Junction Residents Association
 description: "The Junction Residents Association (JRA) is a volunteer led, non-profit, community organization located in Toronto's west end. Our mission is to promote a strong, vibrant, walkable, accessible, livable and safe community for all. This is a non-profit, non-partisan, volunteer run organization."
 tags:
-  - type/neighbourhood-association
-  - for/volunteering
-  - for/municipal-issues
-  - for/advocacy
-  - neighbourhood/the-junction
-  - borough/old-toronto
+  - instance-of/organization/neighbourhood-association
+  - requires-refactoring/audience/occupation/volunteer
+  - topic/cause/municipal-issues
+  - topic/objective/advocacy
+  - neighbourhood/old-toronto/the-junction
+  - neighbourhood/old-toronto
 link: https://www.torontojra.com
 address:
   streetAddress: Keele and Dundas West

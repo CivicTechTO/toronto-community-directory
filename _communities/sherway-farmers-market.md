@@ -2,10 +2,10 @@
 name: Sherway Farmers' Market
 description: "Seasonal Friday morning farmers' market from June to October near Sherway Gardens."
 tags:
-  - type/market
-  - type/farmers-market
-  - for/food
-  - borough/etobicoke
+  - instance-of/event/market
+  - instance-of/event/market/farmers-market
+  - topic/interest/food
+  - neighbourhood/etobicoke
 link: https://farmfreshmarkets.ca/
 address:
   streetAddress: 1536 The Queensway

@@ -2,10 +2,10 @@
 name: Taste of Regent Park
 description: "Seasonal weekly market from July to September featuring food vendors and community activities in Regent Park."
 tags:
-  - type/market
-  - for/food
-  - neighbourhood/regent-park
-  - borough/old-toronto
+  - instance-of/event/market
+  - topic/interest/food
+  - neighbourhood/old-toronto/regent-park
+  - neighbourhood/old-toronto
 link: https://www.fredvictor.org/what-we-do/health-services/taste-of-regent-park/
 address:
   streetAddress: 620 Dundas St E

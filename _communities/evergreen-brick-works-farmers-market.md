@@ -2,11 +2,11 @@
 name: Evergreen Brick Works Farmers' Market
 description: "Year-round Saturday morning farmers' market at the iconic Evergreen Brick Works location."
 tags:
-  - type/market
-  - type/farmers-market
-  - for/food
-  - neighbourhood/don-river
-  - borough/old-toronto
+  - instance-of/event/market
+  - instance-of/event/market/farmers-market
+  - topic/interest/food
+  - neighbourhood/east-york/don-river
+  - neighbourhood/old-toronto
 link: https://www.evergreen.ca/evergreen-brick-work/activities/saturday-farmers-market/
 address:
   streetAddress: 550 Bayview Ave

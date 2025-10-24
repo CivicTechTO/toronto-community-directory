@@ -6,12 +6,12 @@ description: We are a social running club based in midtown Toronto since 1995.
   to 10 minutes before each run.
 source: MCP Generative Addition
 tags:
-  - type/organization
-  - type/club
-  - for/running
-  - for/fitness
-  - neighbourhood/yonge-eglinton
-  - borough/old-toronto
+  - instance-of/organization
+  - instance-of/organization/club
+  - topic/interest/running
+  - topic/objective/fitness
+  - neighbourhood/old-toronto/yonge-eglinton
+  - neighbourhood/old-toronto
 link: https://www.torontorunningclub.com
 address:
   streetAddress: 200 Eglinton Avenue West

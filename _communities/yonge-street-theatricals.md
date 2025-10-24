@@ -2,12 +2,12 @@
 name: Yonge Street Theatricals
 description: "Yonge Street Theatricals is a theatrical production company based in Toronto's Yorkville neighbourhood. The company produces and presents theatrical works, contributing to Toronto's dynamic theatre scene. Yonge Street Theatricals focuses on bringing quality theatrical productions to Toronto audiences."
 tags:
-  - type/organization
-  - type/theatre-company
-  - for/theatre
-  - for/performance
-  - neighbourhood/yorkville
-  - borough/old-toronto
+  - instance-of/organization
+  - instance-of/organization/theatre-company
+  - topic/art-form/theatre
+  - topic/art-form/performance
+  - neighbourhood/old-toronto/yorkville
+  - neighbourhood/old-toronto
 link: https://www.yongestreettheatricals.com/
 address:
   streetAddress: 4 - 70 Yorkville Avenue

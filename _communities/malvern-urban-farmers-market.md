@@ -2,12 +2,12 @@
 name: Malvern Urban Farmers' Market
 description: "Seasonal Wednesday afternoon farmers' market from July to October, operated by Malvern Family Resource Centre."
 tags:
-  - type/market
-  - type/farmers-market
-  - for/food
-  - for/urban-agriculture
-  - neighbourhood/malvern
-  - borough/scarborough
+  - instance-of/event/market
+  - instance-of/event/market/farmers-market
+  - topic/interest/food
+  - topic/interest/urban-agriculture
+  - neighbourhood/scarborough/malvern
+  - neighbourhood/scarborough
 link: https://mfrc.org/community-and-family-programs/food-justice-in-malvern/
 address:
   streetAddress: 90 Littles Road

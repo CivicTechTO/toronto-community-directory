@@ -6,13 +6,11 @@ description: Among Toronto music venues, Hugh's Room live has always stood alone
   representing our rich multicultural fab­ric.
 source: MCP Generative Addition
 tags:
-  - type/venue
-  - for/music
-  - for/folk
-  - for/jazz
-  - for/concerts
-  - neighbourhood/broadview-north
-  - borough/east-york
+  - instance-of/place/event-venue
+  - topic/art-form/music
+  - topic/art-form/music/folk
+  - topic/hobby/jazz
+  - neighbourhood/east-york/broadview-north
 link: https://hughsroomlive.com
 address:
   streetAddress: 296 Broadview Avenue

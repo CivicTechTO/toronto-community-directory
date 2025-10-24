@@ -3,10 +3,10 @@ name: The Word On The Street
 description: "The Word On The Street Toronto is an annual celebration of storytelling, ideas and imagination, hosting Canada's largest FREE book and magazine festival, and promoting great books by Canadian and Indigenous authors year-round."
 source: admin
 tags:
-  - type/annual-event
-  - type/festival
-  - for/reading
-  - for/poetry
+  - cadence/annually
+  - instance-of/event/festival
+  - topic/interest/reading
+  - topic/art-form/performance/poetry
 link: https://toronto.thewordonthestreet.ca
 address:
   streetAddress: 215 King Street West

@@ -2,11 +2,10 @@
 name: East Lynn Farmers' Market
 description: "Seasonal Thursday afternoon farmers' market from June to October, operated by Danforth East Community Association."
 tags:
-  - type/market
-  - type/farmers-market
-  - for/food
-  - neighbourhood/east-danforth
-  - borough/east-york
+  - instance-of/event/market
+  - instance-of/event/market/farmers-market
+  - topic/interest/food
+  - neighbourhood/east-york/east-danforth
 link: https://deca.to/market/
 address:
   streetAddress: 1949 Danforth Ave

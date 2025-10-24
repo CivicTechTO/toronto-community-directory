@@ -6,13 +6,13 @@ description: Toronto's only black-owned comedy club, The Comedy Lab, showcases
   8pm-1am. Located in the Annex, on Bloor and Brunswick.
 source: MCP Generative Addition
 tags:
-  - type/venue
-  - type/comedy-club
-  - for/comedy
-  - for/standup
-  - for/open-mic
-  - neighbourhood/the-annex
-  - borough/old-toronto
+  - instance-of/place/event-venue
+  - instance-of/place/event-venue/comedy-club
+  - topic/art-form/comedy
+  - topic/art-form/comedy/standup
+  - topic/art-form/open-mic
+  - neighbourhood/old-toronto/the-annex
+  - neighbourhood/old-toronto
 link: https://comedylab.to/
 address:
   streetAddress: 296 Brunswick Avenue

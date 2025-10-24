@@ -2,9 +2,9 @@
 name: Little Italy BIA
 description: "This vibrant neighbourhood is the very first Little Italy in Toronto and an authentically unique neighbourhood that is incredibly rich in both character and culture. Famous for its European charm, Little Italy proudly boasts hundreds of shops, cafes, restaurants and bars with a pulsing night life and sun drenched patios."
 tags:
-  - type/business-improvement-area
-  - neighbourhood/little-italy
-  - borough/old-toronto
+  - instance-of/organization/business-improvement-area
+  - neighbourhood/old-toronto/little-italy
+  - neighbourhood/old-toronto
 link: https://tolittleitaly.com
 address:
   streetAddress: College Street from Bathurst Street to Shaw Street

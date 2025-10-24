@@ -2,15 +2,15 @@
 name: Buddies in Bad Times Theatre
 description: "Founded in 1979, Buddies in Bad Times Theatre is the world's longest-running and largest queer theatre company. A vital hub for 2SLGBTQ+ artists and audiences, Buddies presents innovative, provocative work that challenges conventions and celebrates queer culture. The theatre operates a 250-seat mainstage and hosts numerous festivals including the annual Rhubarb Festival, Canada's longest-running live arts festival."
 tags:
-  - type/organization
-  - type/theatre
-  - type/venue
-  - for/theatre
-  - for/performance
-  - for/queer-culture
-  - audience/queer-community
-  - neighbourhood/church-and-wellesley
-  - borough/old-toronto
+  - instance-of/organization
+  - instance-of/place/event-venue/theatre
+  - instance-of/place/event-venue
+  - topic/art-form/theatre
+  - topic/art-form/performance
+  - topic/interest/queer-culture
+  - requires-refactoring/audience/identity/queer
+  - neighbourhood/old-toronto/church-and-wellesley
+  - neighbourhood/old-toronto
 link: https://buddiesinbadtimes.com/
 address:
   streetAddress: 12 Alexander Street

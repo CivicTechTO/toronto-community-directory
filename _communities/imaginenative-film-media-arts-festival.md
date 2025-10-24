@@ -3,11 +3,11 @@ name: imagineNATIVE Film + Media Arts Festival
 description: "imagineNATIVE is the world's largest presenter of Indigenous-made media, supporting Indigenous artists to share their voices, perspectives, and cultures."
 source: "MCP Generative Addition"
 tags:
-  - type/annual-event
-  - type/film-festival
-  - for/film
-  - for/media-arts
-  - audience/indigenous-community
+  - cadence/annually
+  - instance-of/event/festival/film-festival
+  - topic/art-form/film
+  - topic/art-form/media-arts
+  - requires-refactoring/culture/indigenous
 link: https://imaginenative.org/festival/
 address:
   streetAddress: 401 Richmond Street West

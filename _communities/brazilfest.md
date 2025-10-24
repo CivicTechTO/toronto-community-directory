@@ -2,14 +2,14 @@
 name: Brazilfest
 description: "Canada's largest Brazilian cultural festival, celebrating over 20 years of bringing the spirit of Brazil to life in Toronto. The festival showcases Brazilian culture through music, dance, food, and community spirit, featuring live performances, capoeira, samba dancers, Brazilian cuisine, and family activities. A free, two-day event held annually in July."
 tags:
-  - type/festival
-  - type/cultural-festival
-  - for/food
-  - for/music
-  - for/dance
-  - audience/brazilian-community
-  - neighbourhood/earlscourt
-  - borough/old-toronto
+  - instance-of/event/festival
+  - instance-of/event/festival/cultural-festival
+  - topic/interest/food
+  - topic/art-form/music
+  - topic/art-form/dance
+  - requires-refactoring/culture/brazilian
+  - neighbourhood/old-toronto/earlscourt
+  - neighbourhood/old-toronto
 link: https://brazilfest.ca
 address:
   streetAddress: Earlscourt Park, 1595 St. Clair Avenue West

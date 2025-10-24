@@ -3,11 +3,10 @@ name: Toronto Toool
 description: "The Toronto Toool chapter is a open meetup for anyone interested in or curious about the hobby of locks, lockpicking and discussing the ever expanding fascade of security theatre. We host monthly informal and free meetups that are open to everyone young and old."
 source: "issue #54 by @jordyarms"
 tags:
-  - type/event-series
-  - for/fun
-  - for/lockpicking
-  - for/learning
-  - borough/old-toronto
+  - instance-of/event/event-series
+  - topic/interest/fun
+  - topic/hobby/locksport
+  - neighbourhood/old-toronto
 link: https://www.meetup.com/toool_toronto/
 address:
   streetAddress: 718R Ossington Avenue

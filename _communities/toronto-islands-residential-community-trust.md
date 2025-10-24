@@ -3,10 +3,10 @@ name: Toronto Islands Residential Community Trust Corporation
 description: "In December 1993 the Trust was established under the Toronto Islands Residential Community Stewardship Act, 1993 (the Act), to manage the land and buildings associated with the Island community on behalf of the Island residents and the general public."
 source: "https://www.communityland.ca/canadian-clts/"
 tags:
-  - type/organization
-  - type/community-land-trust
-  - neighbourhood/toronto-island
-  - borough/old-toronto
+  - instance-of/organization
+  - instance-of/organization/community-land-trust
+  - neighbourhood/old-toronto/toronto-islands
+  - neighbourhood/old-toronto
 link: https://torontoisland.org
 address:
   streetAddress: 102 Lakeshore Avenue

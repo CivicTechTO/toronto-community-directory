@@ -2,11 +2,11 @@
 name: Annette Village Farmers' Market
 description: "Seasonal Wednesday afternoon farmers' market from May to October at Runnymede Presbyterian Church."
 tags:
-  - type/market
-  - type/farmers-market
-  - for/food
-  - neighbourhood/baby-point
-  - borough/york
+  - instance-of/event/market
+  - instance-of/event/market/farmers-market
+  - topic/interest/food
+  - neighbourhood/york/baby-point
+  - neighbourhood/york
 link: https://www.annettevillagemarket.com/
 address:
   streetAddress: 680 Annette Street, Runnymede Presbyterian Church

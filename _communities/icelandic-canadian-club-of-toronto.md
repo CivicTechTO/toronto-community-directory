@@ -8,11 +8,11 @@ description:
   cultural events throughout the year.
 source: "issue #107 by @sillygwailo"
 tags:
-  - type/club
-  - type/library
-  - for/reading
-  - for/cultural-exchange
-  - audience/icelandic-community
+  - instance-of/organization/club
+  - instance-of/place/library
+  - topic/interest/reading
+  - topic/cause/cultural-exchange
+  - requires-refactoring/culture/icelandic
 ---
 
 <!-- Community added from GitHub issue #107 -->

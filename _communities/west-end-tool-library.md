@@ -4,11 +4,11 @@ link: https://wetoollibrary.ca
 description: "Borrow tools, save money, build community. Lending tools in the Junction Triangle this fall"
 source: admin addition
 tags:
-  - type/tool-library
-  - for/tools
-  - for/diy
-  - neighbourhood/junction-triangle
-  - borough/old-toronto
+  - instance-of/place/tool-library
+  - topic/interest/tools
+  - topic/interest/diy
+  - neighbourhood/old-toronto/junction-triangle
+  - neighbourhood/old-toronto
 social:
   instagram: https://www.instagram.com/westendtoollibrary/
 address:

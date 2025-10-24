@@ -3,13 +3,13 @@ name: DcideontheBside
 description: "D-cide on the B-side at the Communist's Daughter (A drunken whole-room divebar music debate)"
 source: "https://torontoeventgenerator.substack.com/about"
 tags:
-  - type/event-series
-  - for/drinking
-  - for/music
-  - for/participation
-  - for/vinyl
-  - neighbourhood/little-portugal
-  - borough/old-toronto
+  - instance-of/event/event-series
+  - topic/interest/drinking
+  - topic/art-form/music
+  - topic/interest/participation
+  - topic/interest/vinyl
+  - neighbourhood/old-toronto/little-portugal
+  - neighbourhood/old-toronto
 link: https://www.instagram.com/michaellouisjohnson/
 address:
   streetAddress: 1149 Dundas Street West

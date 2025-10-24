@@ -3,11 +3,10 @@ name: YOHOMO
 description: "Toronto's online community dedicated to queer arts, culture, and nightlife."
 source: "MCP Generative Addition"
 tags:
-  - type/organization
-  - for/art
-  - for/culture
-  - for/nightlife
-  - audience/queer-community
+  - instance-of/organization
+  - topic/art-form/art
+  - topic/interest/nightlife
+  - requires-refactoring/audience/identity/queer
 link: https://www.yohomo.ca
 social:
   instagram: https://www.instagram.com/weareyohomo/

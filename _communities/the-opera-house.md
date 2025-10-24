@@ -6,12 +6,10 @@ description: The Opera House is located at 735 Queen Street East in Riverside,
   theatre and was the main entertainment venue in the neighbourhood.
 source: MCP Generative Addition
 tags:
-  - type/venue
-  - for/music
-  - for/concerts
-  - for/events
-  - neighbourhood/riverside
-  - borough/old-toronto
+  - instance-of/place/event-venue
+  - topic/art-form/music
+  - neighbourhood/old-toronto/riverside
+  - neighbourhood/old-toronto
 link: https://www.theoperahousetoronto.com
 address:
   streetAddress: 735 Queen Street East
@@ -21,4 +19,5 @@ address:
 social:
   instagram: https://www.instagram.com/operahouseto/
   facebook: https://www.facebook.com/operahousetoronto/
+owl:sameAs: https://www.wikidata.org/wiki/Q3522102
 ---

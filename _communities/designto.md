@@ -3,13 +3,13 @@ name: DesignTO
 description: "DesignTO is a non-profit arts and culture organization that believes design can create a sustainable, just, and joyful world. DesignTO organizes the annual DesignTO Festival. It is Canada's largest celebration of design, forming Toronto's design week."
 source: admin
 tags:
-  - type/annual-event
-  - type/organization
-  - type/event-week
-  - for/art
-  - for/design
-  - for/sustainability
-  - audience/designers
+  - cadence/annually
+  - instance-of/organization
+  - instance-of/event/event-week
+  - topic/art-form/art
+  - topic/interest/design
+  - topic/cause/sustainability
+  - requires-refactoring/audience/occupation/designer
 link: https://designto.org
 social:
   instagram: https://www.instagram.com/designtofestival/

@@ -3,8 +3,8 @@ name: Scarborough Communities Association
 description: ""
 source: bulk import
 tags:
-  - type/neighbourhood-association
-  - borough/scarborough
+  - instance-of/organization/neighbourhood-association
+  - neighbourhood/scarborough
 link: ""
 note: "Listed in various Toronto residents association directories but no active website or current contact information found. The URL previously listed (scarborocommunity.com) belongs to a Calgary organization with the same acronym."
 published: false

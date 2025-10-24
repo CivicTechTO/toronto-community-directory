@@ -3,12 +3,12 @@ name: Highland Creek Community Association
 description: "Highland Creek is an east Scarborough neighbourhood surrounding the Highland Creek water system. Our heritage neighbourhood borders Lake Ontario to the south and The Rouge National Park to the north. At the heart of our neighbourhood is Highland Creek Village, a commercial village centre with roots dating back to the mid 1800's."
 source: bulk import
 tags:
-  - type/neighbourhood-association
-  - for/volunteering
-  - for/municipal-issues
-  - for/advocacy
-  - neighbourhood/highland-creek
-  - borough/scarborough
+  - instance-of/organization/neighbourhood-association
+  - requires-refactoring/audience/occupation/volunteer
+  - topic/cause/municipal-issues
+  - topic/objective/advocacy
+  - neighbourhood/scarborough/highland-creek
+  - neighbourhood/scarborough
 link: https://myhighlandcreek.org
 address:
   streetAddress: 265 Port Union Road

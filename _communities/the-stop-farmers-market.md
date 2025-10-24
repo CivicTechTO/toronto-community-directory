@@ -2,12 +2,12 @@
 name: The Stop Farmers' Market
 description: "Year-round Saturday morning farmers' market operated by The Stop Community Food Centre."
 tags:
-  - type/market
-  - type/farmers-market
-  - for/food
-  - for/food-security
-  - neighbourhood/bracondale-hill
-  - borough/old-toronto
+  - instance-of/event/market
+  - instance-of/event/market/farmers-market
+  - topic/interest/food
+  - topic/cause/food-security
+  - neighbourhood/old-toronto/bracondale-hill
+  - neighbourhood/old-toronto
 link: https://www.thestop.org/farmersmarket/
 address:
   streetAddress: 601 Christie Street

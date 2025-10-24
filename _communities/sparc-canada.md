@@ -3,12 +3,10 @@ name: SPARC Canada
 description: "The Society of Philippine Artists, Recreation and Community (SPARC) is a non-profit organization based in Toronto, ON, Canada. Our purpose is to create an avenue to connect more Filipinos in our continuously growing community."
 source: "MCP Generative Addition"
 tags:
-  - type/organization
-  - for/community-building
-  - for/art
-  - for/recreation
-  - for/cultural-events
-  - audience/filipino-community
+  - instance-of/organization
+  - topic/cause/community-building
+  - topic/art-form/art
+  - requires-refactoring/culture/filipino
 link: https://www.sparccanada.ca
 address:
   streetAddress: Bathurst Street & Wilson Avenue

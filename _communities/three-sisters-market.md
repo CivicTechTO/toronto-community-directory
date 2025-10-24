@@ -2,13 +2,13 @@
 name: Three Sisters Market
 description: "Pop-up specialty market at Cecil Community Centre."
 tags:
-  - type/market
-  - for/shopping
-  - for/community-building
-  - type/pop-up-market
-  - neighbourhood/chinatown
-  - borough/old-toronto
-  - audience/indigenous-community
+  - instance-of/event/market
+  - topic/interest/shopping
+  - topic/cause/community-building
+  - instance-of/event/market/pop-up-market
+  - neighbourhood/old-toronto/chinatown
+  - neighbourhood/old-toronto
+  - requires-refactoring/culture/indigenous
 link: https://www.instagram.com/threesistersmarkett.o/
 address:
   streetAddress: 58 Cecil St

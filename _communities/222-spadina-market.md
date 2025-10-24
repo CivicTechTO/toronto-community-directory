@@ -2,11 +2,9 @@
 name: 222 Spadina Market
 description: "Pop-up market in Chinatown featuring local vendors, artists, and food. Check Instagram for event dates."
 tags:
-  - type/pop-up-market
-  - type/market
-  - neighbourhood/chinatown
-  - for/shopping
-  - borough/old-toronto
+  - instance-of/event/market/pop-up-market
+  - neighbourhood/old-toronto/chinatown
+  - topic/interest/shopping
 link: https://www.instagram.com/222spadinamarket/
 address:
   streetAddress: 222 Spadina Ave

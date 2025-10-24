@@ -3,10 +3,10 @@ name: Toronto After Dark Film Festival
 description: "Toronto After Dark Film Festival is one of the world's leading showcases of new horror, sci-fi, action & cult movies."
 source: "MCP Generative Addition"
 tags:
-  - type/annual-event
-  - type/film-festival
-  - for/film
-  - for/horror
+  - cadence/annually
+  - instance-of/event/festival/film-festival
+  - topic/art-form/film
+  - topic/interest/horror
 link: https://torontoafterdark.com
 address:
   streetAddress: 259 Richmond Street West

@@ -2,11 +2,9 @@
 name: Filipino Centre Toronto
 description: "The Filipino Centre Toronto is a community centre established to help Filipinos preserve their identity and individuality while at the same time making their presence felt in their new country."
 tags:
-  - type/community-centre
-  - for/recreation
-  - for/education
-  - neighbourhood/agincourt
-  - borough/scarborough
+  - instance-of/place/community-centre
+  - neighbourhood/scarborough/agincourt
+  - neighbourhood/scarborough
 link: https://www.filipinocentretoronto.com
 address:
   streetAddress: 4395 Sheppard Avenue East

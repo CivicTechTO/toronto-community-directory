@@ -2,10 +2,10 @@
 name: College Park Market
 description: "Seasonal monthly market held the first Wednesday from June to October at College Park, operated by Appletree Markets."
 tags:
-  - type/market
-  - for/food
-  - neighbourhood/garden-district
-  - borough/old-toronto
+  - instance-of/event/market
+  - topic/interest/food
+  - neighbourhood/old-toronto/garden-district
+  - neighbourhood/old-toronto
 link: https://www.appletreemarkets.ca/markets
 address:
   streetAddress: 420 Yonge St

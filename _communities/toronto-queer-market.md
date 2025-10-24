@@ -2,11 +2,11 @@
 name: Toronto Queer Market
 description: "Year-round monthly market at Barbara Hall Park featuring LGBTQ2S+ vendors, artists, and community businesses."
 tags:
-  - type/market
-  - for/shopping
-  - audience/queer-community
-  - neighbourhood/church-and-wellesley
-  - borough/old-toronto
+  - instance-of/event/market
+  - topic/interest/shopping
+  - requires-refactoring/audience/identity/queer
+  - neighbourhood/old-toronto/church-and-wellesley
+  - neighbourhood/old-toronto
 link: http://www.torontoqueermarket.ca/
 address:
   streetAddress: 8 Monteith St, Barbara Hall Park

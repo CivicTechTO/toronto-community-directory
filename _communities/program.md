@@ -3,10 +3,10 @@ name: PROGRAM
 description: "PROGRAM IS A SOFTWARE WORKSHOP SERIES EXPLORING NEW FRONTIERS OF CODE & CREATIVITY."
 source: "issue #11 by @jordyarms"
 tags:
-  - type/event-series
-  - for/technology
-  - for/creativity
-  - for/workshops
+  - instance-of/event/event-series
+  - topic/interest/technology
+  - topic/interest/creativity
+  - topic/interest/workshops
 link: https://www.program.live
 ---
 

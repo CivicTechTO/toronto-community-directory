@@ -2,15 +2,14 @@
 name: Roncesvalles Polish Festival
 description: "North America's largest celebration of Polish culture. Enjoy great local and international music, including Polish folklore, Polka and Euro dance bands, family fun zones, and entertainment on 3 stages. Combining old world charm with today's Roncesvalles Village, attendees will find an amazing variety of global cuisines from local eateries, exceptional shopping, and performances by talented local artists and musicians."
 tags:
-  - type/festival
-  - type/cultural-festival
-  - for/food
-  - for/culture
-  - for/music
-  - for/dance
-  - audience/polish-community
-  - neighbourhood/roncesvalles
-  - borough/old-toronto
+  - instance-of/event/festival
+  - instance-of/event/festival/cultural-festival
+  - topic/interest/food
+  - topic/art-form/music
+  - topic/art-form/dance
+  - requires-refactoring/culture/polish
+  - neighbourhood/old-toronto/roncesvalles
+  - neighbourhood/old-toronto
 link: https://polishfestival.ca
 address:
   streetAddress: Roncesvalles Avenue from Boustead Avenue to Grafton Avenue

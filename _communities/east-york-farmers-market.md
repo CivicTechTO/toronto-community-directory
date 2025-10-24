@@ -2,10 +2,10 @@
 name: East York Farmers' Market
 description: "Seasonal weekly farmers' market operating Tuesday mornings from May to October."
 tags:
-  - type/market
-  - type/farmers-market
-  - for/food
-  - borough/east-york
+  - instance-of/event/market
+  - instance-of/event/market/farmers-market
+  - topic/interest/food
+  - neighbourhood/east-york
 link: https://www.facebook.com/EastYorkFarmersMarket/
 address:
   streetAddress: 850 Coxwell Ave

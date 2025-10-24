@@ -3,10 +3,10 @@ name: Danforth East Community Association
 description: "The Danforth East Community Association (DECA) is a collective of local residents and businesses focused on enhancing community vibrancy and walkability since 2007. They organize events such as the East Lynn Park Farmers Market and the Danforth East Community Arts Fair, fostering collaboration among residents, businesses, schools, and other organizations."
 source: bulk import
 tags:
-  - type/neighbourhood-association
-  - for/municipal-issues
-  - for/advocacy
-  - borough/east-york
+  - instance-of/organization/neighbourhood-association
+  - topic/cause/municipal-issues
+  - topic/objective/advocacy
+  - neighbourhood/east-york/east-danforth
 link: https://deca.to
 address:
   streetAddress: 42 Cedarvale Avenue

@@ -3,9 +3,9 @@ name: TTCriders
 description: "TTCriders is a grassroots, membership-based transit advocacy organization with a focus on better public transit service in Toronto. Its stated mission is to build a TTC that works with and for transit riders."
 source: "issue #87 by @Khasir"
 tags:
-  - type/organization
-  - for/volunteering
-  - for/advocacy
+  - instance-of/organization
+  - requires-refactoring/audience/occupation/volunteer
+  - topic/objective/advocacy
 link: https://www.ttcriders.ca/
 address:
   streetAddress: 720 Bathurst Street

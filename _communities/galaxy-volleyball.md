@@ -3,12 +3,11 @@ name: Galaxy Volleyball
 description: "Galaxy Volleyball is committed to offering the most cost effective Volleyball Club while maintaining the highest standards of coaching, systems, and technology in Toronto."
 source: "https://www.ontariovolleyball.org/find-a-club"
 tags:
-  - type/club
-  - type/organization
-  - for/volleyball
-  - for/sports
-  - for/youth
-  - audience/athletes
+  - instance-of/organization/club
+  - instance-of/organization
+  - topic/hobby/volleyball
+  - topic/interest/sports
+  - requires-refactoring/audience/lifestage/youth
 link: https://www.galaxyvolleyball.org
 social:
   instagram: https://www.instagram.com/galaxyvball/

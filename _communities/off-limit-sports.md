@@ -3,16 +3,16 @@ name: Off Limit Sports
 description: "We not only run the programs, we play in them as well. So, our program formats are based on what we feel will maximize good gameplay and being social."
 source: "MCP Generative Addition"
 tags:
-  - type/organization
-  - type/sports-league
-  - for/volleyball
-  - for/pickleball
-  - for/badminton
-  - for/softball
-  - for/dodgeball
-  - for/sports
-  - for/social
-  - audience/adults
+  - instance-of/organization
+  - instance-of/organization/sports-league
+  - topic/hobby/volleyball
+  - topic/hobby/pickleball
+  - topic/hobby/badminton
+  - topic/hobby/softball
+  - topic/hobby/dodgeball
+  - topic/interest/sports
+  - topic/objective/socializing
+  - requires-refactoring/audience/lifestage/adult
 link: https://www.offlimitsports.com
 address:
   streetAddress: 101 Portland Street, Unit 2

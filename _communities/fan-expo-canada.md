@@ -2,14 +2,14 @@
 name: FAN EXPO Canada
 description: "FAN EXPO Canada is the largest comics, sci-fi, horror, anime, and gaming event in Canada and the third-largest pop culture event in North America. The annual four-day convention attracts over 135,000 fans from around the world to celebrate all things fandom and pop culture, featuring celebrity guests, panels, cosplay, vendors, and exclusive merchandise."
 tags:
-  - type/event
-  - type/convention
-  - for/comics
-  - for/anime
-  - for/gaming
-  - for/cosplay
-  - neighbourhood/entertainment-district
-  - borough/old-toronto
+  - instance-of/event
+  - instance-of/event/convention
+  - topic/art-form/comics
+  - topic/art-form/film/anime
+  - topic/interest/gaming
+  - topic/hobby/cosplay
+  - neighbourhood/old-toronto/entertainment-district
+  - neighbourhood/old-toronto
 link: https://fanexpohq.com/fanexpocanada/
 address:
   streetAddress: Metro Toronto Convention Centre, 255 Front Street West

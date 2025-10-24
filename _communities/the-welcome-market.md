@@ -2,10 +2,10 @@
 name: The Welcome Market
 description: "Pop-up market on Queen West featuring local vendors and artisans."
 tags:
-  - type/market
-  - for/shopping
-  - neighbourhood/queen-west
-  - borough/old-toronto
+  - instance-of/event/market
+  - topic/interest/shopping
+  - neighbourhood/old-toronto/queen-street-west
+  - neighbourhood/old-toronto
 link: https://thewelcomemarket.ca/
 address:
   streetAddress: 938 Queen St W

@@ -2,13 +2,13 @@
 name: York University Farmers' Market (YUM)
 description: "Seasonal Thursday farmers' market from June to August on York University campus, operated by Regenesis York."
 tags:
-  - type/market
-  - type/farmers-market
-  - for/food
-  - for/community-building
-  - audience/post-secondary-students
-  - neighbourhood/york-university-heights
-  - borough/north-york
+  - instance-of/event/market
+  - instance-of/event/market/farmers-market
+  - topic/interest/food
+  - topic/cause/community-building
+  - requires-refactoring/audience/occupation/post-secondary-student
+  - neighbourhood/north-york/york-university-heights
+  - neighbourhood/north-york
 link: https://regenesis.eco/
 address:
   streetAddress: 4700 Keele St

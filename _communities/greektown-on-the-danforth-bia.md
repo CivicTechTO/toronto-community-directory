@@ -2,9 +2,9 @@
 name: GreekTown on the Danforth BIA
 description: "The largest Greek neighbourhood in North America and one of Toronto's most cosmopolitan areas. The strip of Danforth Avenue traditionally known as Greektown has evolved into a diverse community hub of multicultural cuisine, shops and independent grocers. Boasts one of the highest concentrations of restaurants per kilometre in the world."
 tags:
-  - type/business-improvement-area
-  - neighbourhood/greektown
-  - borough/old-toronto
+  - instance-of/organization/business-improvement-area
+  - neighbourhood/old-toronto/greektown
+  - neighbourhood/old-toronto
 link: https://greektowntoronto.com
 address:
   streetAddress: 452A Danforth Avenue

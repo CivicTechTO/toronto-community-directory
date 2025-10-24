@@ -2,11 +2,11 @@
 name: Eastview Neighbourhood and Community Centre
 description: "Fostering individual and community well-being, building leaders and creating opportunities for our community."
 tags:
-  - type/community-centre
-  - for/social-services
-  - for/leadership
-  - neighbourhood/riverdale
-  - borough/old-toronto
+  - instance-of/place/community-centre
+  - topic/interest/social-services
+  - topic/interest/leadership
+  - neighbourhood/old-toronto/riverdale
+  - neighbourhood/old-toronto
 link: https://www.eastviewto.org
 address:
   streetAddress: 86 Blake Street

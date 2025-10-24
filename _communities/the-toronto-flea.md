@@ -2,12 +2,12 @@
 name: The Toronto Flea
 description: "Pop-up flea market held one Sunday per month in Leslieville, featuring vintage, antique, and handmade goods."
 tags:
-  - type/market
-  - for/shopping
-  - for/community-building
-  - type/flea-market
-  - neighbourhood/leslieville
-  - borough/old-toronto
+  - instance-of/event/market
+  - topic/interest/shopping
+  - topic/cause/community-building
+  - instance-of/event/market/flea-market
+  - neighbourhood/old-toronto/leslieville
+  - neighbourhood/old-toronto
 link: https://torontoflea.com/home
 address:
   streetAddress: 1444 Queen St E

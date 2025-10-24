@@ -2,11 +2,11 @@
 name: Hogtown Flea
 description: "Year-round flea market held every other Sunday, operated by Coffee and Clothing, featuring vintage and secondhand goods."
 tags:
-  - type/market
-  - for/shopping
-  - type/flea-market
-  - neighbourhood/riverdale
-  - borough/old-toronto
+  - instance-of/event/market
+  - topic/interest/shopping
+  - instance-of/event/market/flea-market
+  - neighbourhood/old-toronto/riverdale
+  - neighbourhood/old-toronto
 link: https://www.coffeeandclothing.ca/
 address:
   streetAddress: 24 McGee St

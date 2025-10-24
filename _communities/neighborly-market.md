@@ -2,11 +2,11 @@
 name: Neighborly Market
 description: "Seasonal occasional Sunday market from June to July in Kensington Market."
 tags:
-  - type/market
-  - for/shopping
-  - for/community-building
-  - neighbourhood/kensington-market
-  - borough/old-toronto
+  - instance-of/event/market
+  - topic/interest/shopping
+  - topic/cause/community-building
+  - neighbourhood/old-toronto/kensington-market
+  - neighbourhood/old-toronto
 link: https://neighborlymarket.ca/
 address:
   streetAddress: 224 Augusta Ave

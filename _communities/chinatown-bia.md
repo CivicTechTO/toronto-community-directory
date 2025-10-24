@@ -2,9 +2,9 @@
 name: Chinatown BIA
 description: "Year-round market district along Dundas and Spadina featuring Chinese and Southeast Asian shops, restaurants, markets, and cultural venues."
 tags:
-  - type/business-improvement-area
-  - neighbourhood/chinatown
-  - borough/old-toronto
+  - instance-of/organization/business-improvement-area
+  - neighbourhood/old-toronto/chinatown
+  - neighbourhood/old-toronto
 link: https://chinatownbia.com/
 address:
   streetAddress: Chinatown

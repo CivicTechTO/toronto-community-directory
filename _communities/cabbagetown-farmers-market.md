@@ -2,11 +2,11 @@
 name: Cabbagetown Farmers' Market
 description: "Seasonal Tuesday afternoon farmers' market from May to October at West Riverdale Park in Cabbagetown."
 tags:
-  - type/market
-  - type/farmers-market
-  - neighbourhood/cabbagetown
-  - borough/old-toronto
-  - for/food
+  - instance-of/event/market
+  - instance-of/event/market/farmers-market
+  - neighbourhood/old-toronto/cabbagetown
+  - neighbourhood/old-toronto
+  - topic/interest/food
 link: https://www.cabbagetownmarket.ca/
 address:
   streetAddress: West Riverdale Park

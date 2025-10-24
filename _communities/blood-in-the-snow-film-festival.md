@@ -3,11 +3,11 @@ name: Blood in the Snow Film Festival
 description: "The Blood in the Snow Film Festival is a unique and imaginative showcase of contemporary Canadian horror, genre, and underground cinema that exists to challenge social boundaries, explore artistic taboos, and support and exhibit independent Canadian genre media artists."
 source: "MCP Generative Addition"
 tags:
-  - type/annual-event
-  - type/film-festival
-  - for/film
-  - for/horror
-  - audience/filmmakers
+  - cadence/annually
+  - instance-of/event/festival/film-festival
+  - topic/art-form/film
+  - topic/interest/horror
+  - requires-refactoring/audience/occupation/filmmaker
 link: https://bloodinthesnow.ca
 address:
   streetAddress: 93 Charles Street West

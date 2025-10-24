@@ -2,9 +2,9 @@
 name: Crossroads of the Danforth BIA
 description: "Established in 2008, the BIA is largely made up of service-providing businesses and retail stores, as well as food services establishments. The BIA organizes and hosts the annual Wheels on the Danforth event featuring vintage automobiles, and the Light Up the Crossroads tree-lighting ceremony."
 tags:
-  - type/business-improvement-area
-  - neighbourhood/oakridge
-  - borough/scarborough
+  - instance-of/organization/business-improvement-area
+  - neighbourhood/scarborough/oakridge
+  - neighbourhood/scarborough
 link: https://crossroadsbia.ca
 address:
   streetAddress: Danforth Avenue from Victoria Park Avenue to east of Scotia Avenue

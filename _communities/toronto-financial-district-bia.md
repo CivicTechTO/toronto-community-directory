@@ -2,9 +2,9 @@
 name: Toronto Financial District BIA
 description: "Represents Toronto's premier business centre, an area that includes Union Station, the PATH underground walkway and Canada's five major banks and most prominent firms. Initiatives include improving public spaces, showcasing daily activity of thriving businesses, and identifying collaborative opportunities that ensure the Financial District and PATH are well-maintained, integrated, connected and accessible."
 tags:
-  - type/business-improvement-area
-  - neighbourhood/financial-district
-  - borough/old-toronto
+  - instance-of/organization/business-improvement-area
+  - neighbourhood/old-toronto/financial-district
+  - neighbourhood/old-toronto
 link: https://www.torontofinancialdistrict.com
 address:
   streetAddress: 100 King Street West

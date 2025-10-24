@@ -1,11 +1,13 @@
 ---
 name: Let's Hike T.O.
 link: https://www.letshiketo.ca/
-description: A hiking community in Toronto open to everyone with a focus on people
+description:
+  A hiking community in Toronto open to everyone with a focus on people
   of colour, newcomers & young adults
-source: 'issue #97 by @nafeesaDPS'
+source: "issue #97 by @nafeesaDPS"
 tags:
-- for/walking
+  - topic/hobby/walking
+  - instance-of/organization/community
 ---
 
 <!-- Community added from GitHub issue #97 -->

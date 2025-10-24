@@ -2,10 +2,9 @@
 name: Bayview Leaside BIA
 description: Traditional main street Business Improvement Area on Bayview Avenue, featuring an impressive collection of independent restaurants, cafes, specialty retail shops, and personal service establishments
 tags:
-  - type/organization
-  - type/business-improvement-area
-  - neighbourhood/leaside
-  - borough/east-york
+  - instance-of/organization
+  - instance-of/organization/business-improvement-area
+  - neighbourhood/east-york/leaside
 link: https://bayviewleasidebia.com
 address:
   streetAddress: Bayview Avenue from Davisville Avenue to Soudan Avenue

@@ -3,11 +3,11 @@ name: Toronto Burlesque Festival
 description: "The Toronto Burlesque Festival (TBF) is an artist-led, non-profit organization dedicated to showcasing the best in local, national, and international burlesque, cabaret, and circus arts."
 source: "MCP Generative Addition"
 tags:
-  - type/annual-event
-  - type/festival
-  - for/burlesque
-  - for/performance-art
-  - audience/adults
+  - cadence/annually
+  - instance-of/event/festival
+  - topic/art-form/performance/burlesque
+  - topic/art-form/performance-art
+  - requires-refactoring/audience/lifestage/adult
 link: https://www.torontoburlesquefestival.ca
 address:
   streetAddress: 12 Alexander Street

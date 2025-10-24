@@ -11,15 +11,15 @@ description:
   for social and environmental change.
 source: "issue #93 by @plzhelpmevoid"
 tags:
-  - type/grassroots
-  - for/activism
-  - for/environmentalism
-  - for/social-justice
-  - for/anti-racism
-  - for/volunteering
-  - neighbourhood/discovery-district
-  - borough/old-toronto
-  - audience/post-secondary-students
+  - instance-of/organization/grassroots-organization
+  - topic/objective/activism
+  - topic/cause/environmentalism
+  - topic/cause/social-justice
+  - topic/cause/anti-racism
+  - requires-refactoring/audience/occupation/volunteer
+  - neighbourhood/old-toronto/discovery-district
+  - neighbourhood/old-toronto
+  - requires-refactoring/audience/occupation/post-secondary-student
 social:
   instagram: https://www.instagram.com/opirgtoronto/
 ---

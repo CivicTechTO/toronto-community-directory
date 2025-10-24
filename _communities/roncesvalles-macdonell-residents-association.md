@@ -7,11 +7,11 @@ description: The Roncesvalles-Macdonell Residents' Association (RMRA) is made up
   community.
 source: bulk import
 tags:
-  - type/neighbourhood-association
-  - for/municipal-issues
-  - for/advocacy
-  - neighbourhood/roncesvalles
-  - borough/old-toronto
+  - instance-of/organization/neighbourhood-association
+  - topic/cause/municipal-issues
+  - topic/objective/advocacy
+  - neighbourhood/old-toronto/roncesvalles
+  - neighbourhood/old-toronto
 link: https://www.facebook.com/RoncesvallesMacdonell
 social:
   facebook: https://www.facebook.com/RoncesvallesMacdonell/

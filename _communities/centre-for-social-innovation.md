@@ -3,10 +3,10 @@ name: The Centre for Social Innovation
 description: We're a community launchpad for people and enterprises who are proving that solutions are possible. The CSI community is home to over 1,000 nonprofits, charities, and social ventures that employ over 3,000 people and generate combined annual revenues of around $250 million.
 source: "issue #24 by @jordyarms"
 tags:
-  - type/venue
-  - type/coworking-space
-  - for/entrepreneurship
-  - audience/entrepreneurs
+  - instance-of/place/event-venue
+  - instance-of/place/coworking-space
+  - requires-refactoring/audience/occupation/entrepreneur
+  - requires-refactoring/audience/occupation/entrepreneur
 link: https://socialinnovation.org
 address:
   streetAddress: 192 Spadina Avenue

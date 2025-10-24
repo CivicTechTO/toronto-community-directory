@@ -2,14 +2,14 @@
 name: Theatre Passe Muraille
 description: "Theatre Passe Muraille is an iconic Canadian theatre company that has been creating groundbreaking, socially engaged work since 1968. Known for pioneering collaborative creation and documentary theatre techniques, the company helped define Canadian theatre with landmark productions. Located in Toronto's Annex neighbourhood, Theatre Passe Muraille continues to champion daring, politically aware work by Canadian artists."
 tags:
-  - type/organization
-  - type/theatre-company
-  - type/theatre
-  - type/venue
-  - for/theatre
-  - for/performance
-  - for/arts
-  - borough/old-toronto
+  - instance-of/organization
+  - instance-of/organization/theatre-company
+  - instance-of/place/event-venue/theatre
+  - instance-of/place/event-venue
+  - topic/art-form/theatre
+  - topic/art-form/performance
+  - topic/art-form/art
+  - neighbourhood/old-toronto
 link: https://www.passemuraille.ca/
 address:
   streetAddress: 16 Ryerson Avenue

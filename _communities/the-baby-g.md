@@ -2,11 +2,10 @@
 name: The Baby G
 description: "The Baby G is a live music venue"
 tags:
-  - type/venue
-  - for/music
-  - for/concerts
-  - neighbourhood/brockton-village
-  - borough/old-toronto
+  - instance-of/place/event-venue
+  - topic/art-form/music
+  - neighbourhood/old-toronto/brockton-village
+  - neighbourhood/old-toronto
 link: http://thebabyg.com
 address:
   streetAddress: 1608 Dundas Street West

@@ -3,11 +3,11 @@ name: Division 88
 description: "Division 88 is a dynamic and versatile creative hub nestled in the trendy Geary Strip, offering fully customizable sets for artists, musicians, podcasters, and creatives of all kinds. From live music events to quirky themed gatherings, it's the space where imagination thrives and anything can happen."
 source: admin
 tags:
-  - type/venue
-  - for/music
-  - for/creativity
-  - neighbourhood/wallace-emerson
-  - borough/old-toronto
+  - instance-of/place/event-venue
+  - topic/art-form/music
+  - topic/interest/creativity
+  - neighbourhood/old-toronto/wallace-emerson
+  - neighbourhood/old-toronto
 link: https://www.division88.com
 address:
   streetAddress: 225 Geary Avenue

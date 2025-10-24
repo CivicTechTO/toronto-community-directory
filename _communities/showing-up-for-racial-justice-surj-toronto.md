@@ -10,18 +10,17 @@ description:
   to Black, Indigenous, and racialized communities.
 source: "issue #95 by @plzhelpmevoid"
 tags:
-  - type/grassroots
-  - for/social-justice
-  - for/skill-sharing
-  - for/education
-  - for/anti-racism
-  - for/anti-colonialism
-  - for/activism
-  - audience/bipoc-community
-  - audience/black-community
-  - audience/indigenous-community
-  - audience/anti-racist-white-community
-  - audience/allies
+  - instance-of/organization/grassroots-organization
+  - topic/cause/social-justice
+  - topic/objective/skill-sharing
+  - topic/cause/anti-racism
+  - topic/cause/anti-colonialism
+  - topic/objective/activism
+  - requires-refactoring/audience/racial-identity/bipoc
+  - requires-refactoring/audience/racial-identity/black
+  - requires-refactoring/culture/indigenous
+  - requires-refactoring/audience/racial-identity/white
+  - topic/cause/allyship
 ---
 
 <!-- Community added from GitHub issue #95 -->

@@ -2,11 +2,11 @@
 name: Montgomery's Inn Farmers' Market
 description: "Year-round Wednesday afternoon farmers' market at historic Montgomery's Inn in Etobicoke."
 tags:
-  - type/market
-  - type/farmers-market
-  - for/food
-  - neighbourhood/the-kingsway
-  - borough/etobicoke
+  - instance-of/event/market
+  - instance-of/event/market/farmers-market
+  - topic/interest/food
+  - neighbourhood/etobicoke/the-kingsway
+  - neighbourhood/etobicoke
 link: https://montgomerysinnovators.ca/about/
 address:
   streetAddress: 4709 Dundas Street West

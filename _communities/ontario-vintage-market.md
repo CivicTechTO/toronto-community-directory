@@ -2,10 +2,10 @@
 name: Ontario Vintage Market
 description: "Seasonal Sunday vintage market from May to October at Evergreen Brick Works, featuring vintage clothing, furniture, and collectibles."
 tags:
-  - type/market
-  - for/shopping
-  - neighbourhood/don-river
-  - borough/old-toronto
+  - instance-of/event/market
+  - topic/interest/shopping
+  - neighbourhood/east-york/don-river
+  - neighbourhood/old-toronto
 address:
   streetAddress: 550 Bayview Ave
   addressLocality: Toronto

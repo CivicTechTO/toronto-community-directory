@@ -3,9 +3,9 @@ name: Toronto Fringe
 description: "The Toronto Fringe is a grassroots, charitable organization that runs Ontario's largest performance festival, the Toronto Fringe Festival, the curated Next Stage Theatre Festival, and various year-round programs that benefit youth, emerging artists, BIPOC artists, artists with disabilities, and the performing arts community at large."
 source: admin
 tags:
-  - type/annual-event
-  - type/organization
-  - for/theatre
+  - cadence/annually
+  - instance-of/organization
+  - topic/art-form/theatre
 link: https://fringetoronto.com
 address:
   streetAddress: 100 Broadview Avenue

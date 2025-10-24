@@ -3,9 +3,9 @@ name: Tapestry Community Capital
 description: "We support non-profits, charities, and co-operatives to raise and manage community investment. Since 1998, Tapestry has supported some of Canada's largest social enterprises in successful community financing campaigns. We have worked with organizations across multiple sectors, from renewable energy to co-working, in raising and managing $100+ million from 4,500 local investors."
 source: "MCP Generative Addition"
 tags:
-  - type/organization
-  - for/social-finance
-  - for/investing
+  - instance-of/organization
+  - topic/cause/social-finance
+  - topic/interest/investing
 link: https://tapestrycapital.ca
 address:
   streetAddress: 192 Spadina Avenue, Suite 429
